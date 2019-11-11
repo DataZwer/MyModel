@@ -1,0 +1,3402 @@
+The aspectTerm is top notch as well.
+bread
+positive
+I have to say they have one of the fastest aspectTerm in the city.
+delivery times
+positive
+aspectTerm is always fresh and hot- ready to eat!
+Food
+positive
+Did I mention that the aspectTerm is OUTSTANDING?
+coffee
+positive
+Certainly not the best aspectTerm in New York, however, it is always fresh, and the place is very clean, sterile.
+sushi
+conflict
+Certainly not the best sushi in New York, however, it is always fresh, and the aspectTerm is very clean, sterile.
+place
+positive
+I trust the aspectTerm at Go Sushi, it never disappoints.
+people
+positive
+Straight-forward, no surprises, very decent aspectTerm.
+Japanese food
+positive
+BEST spicy tuna roll, great aspectTerm.
+asian salad
+positive
+BEST aspectTerm, great asian salad.
+spicy tuna roll
+positive
+Try the aspectTerm (not on menu).
+rose roll
+positive
+Try the rose roll (not on aspectTerm).
+menu
+neutral
+I love the aspectTerm, esp lychee martini, and the food is also VERY good.
+drinks
+positive
+I love the drinks, esp aspectTerm, and the food is also VERY good.
+lychee martini
+positive
+I love the drinks, esp lychee martini, and the aspectTerm is also VERY good.
+food
+positive
+In fact, this was not a aspectTerm and was barely eatable.
+Nicoise salad
+negative
+While there's a decent aspectTerm, it shouldn't take ten minutes to get your drinks and 45 for a dessert pizza.
+menu
+positive
+While there's a decent menu, it shouldn't take ten minutes to get your aspectTerm and 45 for a dessert pizza.
+drinks
+neutral
+While there's a decent menu, it shouldn't take ten minutes to get your drinks and 45 for a aspectTerm.
+dessert pizza
+neutral
+Once we sailed, the top-notch aspectTerm and live entertainment sold us on a unforgettable evening.
+food
+positive
+Once we sailed, the top-notch food and aspectTerm sold us on a unforgettable evening.
+live entertainment
+positive
+Our aspectTerm was horrible; so rude and disinterested.
+waiter
+negative
+The aspectTerm's - watered down.
+sangria
+negative
+aspectTerm - uneventful, small.
+menu
+negative
+Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh aspectTerm and great portions all at a reasonable price.
+sushi
+positive
+Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh sushi and great aspectTerm all at a reasonable price.
+portions
+positive
+Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh sushi and great portions all at a reasonable aspectTerm.
+price
+positive
+Great aspectTerm but the service was dreadful!
+food
+positive
+Great food but the aspectTerm was dreadful!
+service
+negative
+The aspectTerm that came out were mediocre.
+portions of the food
+neutral
+the two aspectTerm looked like they had been sucking on lemons.
+waitress's
+negative
+From the beginning, we were met by friendly aspectTerm, and the convienent parking at Chelsea Piers made it easy for us to get to the boat.
+staff memebers
+positive
+From the beginning, we were met by friendly staff memebers, and the convienent aspectTerm at Chelsea Piers made it easy for us to get to the boat.
+parking
+positive
+We enjoyed ourselves thoroughly and will be going back for the aspectTerm ....
+desserts
+positive
+aspectTerm are almost incredible: my personal favorite is their Tart of the Day.
+Desserts
+positive
+Desserts are almost incredible: my personal favorite is their aspectTerm.
+Tart of the Day
+positive
+The aspectTerm was extremely tasty, creatively presented and the wine excellent.
+food
+positive
+The food was extremely tasty, creatively presented and the aspectTerm excellent.
+wine
+positive
+THE aspectTerm WAS PROBABLY THE BEST I HAVE TASTED.
+LASAGNA
+positive
+Harumi Sushi has the freshest and most delicious aspectTerm in NYC.
+array of sushi
+positive
+I highly recommend it for not just its superb aspectTerm, but also for its friendly owners and staff.
+cuisine
+positive
+I highly recommend it for not just its superb cuisine, but also for its friendly aspectTerm and staff.
+owners
+positive
+I highly recommend it for not just its superb cuisine, but also for its friendly owners and aspectTerm.
+staff
+positive
+If you're craving some serious aspectTerm and desire a cozy ambiance, this is quite and exquisite choice.
+indian food
+positive
+If you're craving some serious indian food and desire a cozy aspectTerm, this is quite and exquisite choice.
+ambiance
+positive
+I definitely enjoyed the aspectTerm as well.
+food
+positive
+It was pleasantly uncrowded, the aspectTerm was delightful, the garden adorable, the food (from appetizers to entrees) was delectable.
+service
+positive
+It was pleasantly uncrowded, the service was delightful, the aspectTerm adorable, the food (from appetizers to entrees) was delectable.
+garden
+positive
+It was pleasantly uncrowded, the service was delightful, the garden adorable, the aspectTerm (from appetizers to entrees) was delectable.
+food
+positive
+It was pleasantly uncrowded, the service was delightful, the garden adorable, the food (from aspectTerm to entrees) was delectable.
+appetizers
+positive
+It was pleasantly uncrowded, the service was delightful, the garden adorable, the food (from appetizers to aspectTerm) was delectable.
+entrees
+positive
+The aspectTerm is surprisingly good, and the decor is nice.
+food
+positive
+The food is surprisingly good, and the aspectTerm is nice.
+decor
+positive
+How pretentious and inappropriate for MJ Grill to claim that it provides power aspectTerm and dinners!
+lunch
+negative
+How pretentious and inappropriate for MJ Grill to claim that it provides power lunch and aspectTerm!
+dinners
+negative
+Two wasted aspectTerm -- what a crime!
+steaks
+negative
+The aspectTerm should be a bit more friendly.
+staff
+negative
+I think the aspectTerm is good.
+meatball parm
+positive
+If you want good tasting, well seasoned aspectTerm eat at Cabana and you can't go wrong.
+latin food
+positive
+Definitely try the aspectTerm - it was incredible.
+taglierini with truffles
+positive
+Also, the aspectTerm is very attentive and really personable.
+staff
+positive
+The aspectTerm literally melts in your mouth!
+gnocchi
+positive
+Had a great experience at Trio ... aspectTerm was pleasant; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.
+staff
+positive
+Had a great experience at Trio ... staff was pleasant; aspectTerm was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.
+food
+positive
+Had a great experience at Trio ... staff was pleasant; food was tasty and large in aspectTerm - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.
+portion size
+positive
+Had a great experience at Trio ... staff was pleasant; food was tasty and large in portion size - I would highly recommend the aspectTerm and the lobster risotto.
+portobello/gorgonzola/sausage appetizer
+positive
+Had a great experience at Trio ... staff was pleasant; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the aspectTerm.
+lobster risotto
+positive
+aspectTerm include classics like lasagna, fettuccine Alfredo and chicken parmigiana.
+Entrees
+neutral
+Entrees include classics like aspectTerm, fettuccine Alfredo and chicken parmigiana.
+lasagna
+neutral
+Entrees include classics like lasagna, aspectTerm and chicken parmigiana.
+fettuccine Alfredo
+neutral
+Entrees include classics like lasagna, fettuccine Alfredo and aspectTerm.
+chicken parmigiana
+neutral
+The aspectTerm is good, the teriyaki I recommend.
+food
+positive
+The food is good, the aspectTerm I recommend.
+teriyaki
+positive
+aspectTerm was very expensive for what you get.
+Meal
+negative
+Try the aspectTerm and the pizza with soy cheese!
+Peanut Butter Sorbet
+positive
+Try the Peanut Butter Sorbet and the aspectTerm!
+pizza with soy cheese
+positive
+Good aspectTerm at the right price, what more can you ask for.
+food
+positive
+Good food at the right aspectTerm, what more can you ask for.
+price
+positive
+The aspectTerm is top notch, the service is attentive, and the atmosphere is great.
+food
+positive
+The food is top notch, the aspectTerm is attentive, and the atmosphere is great.
+service
+positive
+The food is top notch, the service is attentive, and the aspectTerm is great.
+atmosphere
+positive
+Great aspectTerm, great waitstaff, great atmosphere, and best of all GREAT beer!
+food
+positive
+Great food, great aspectTerm, great atmosphere, and best of all GREAT beer!
+waitstaff
+positive
+Great food, great waitstaff, great aspectTerm, and best of all GREAT beer!
+atmosphere
+positive
+Great food, great waitstaff, great atmosphere, and best of all GREAT aspectTerm!
+beer
+positive
+this is still one of my most favorite restaurants in the area the aspectTerm is inexpensive but very good (kimono shrimp special was excellent) and has a great atmosphere.
+food
+positive
+this is still one of my most favorite restaurants in the area the food is inexpensive but very good (aspectTerm was excellent) and has a great atmosphere.
+kimono shrimp special
+positive
+this is still one of my most favorite restaurants in the area the food is inexpensive but very good (kimono shrimp special was excellent) and has a great aspectTerm.
+atmosphere
+positive
+The aspectTerm is interesting and quite reasonably priced.
+menu
+positive
+The menu is interesting and quite reasonably aspectTerm.
+priced
+positive
+The aspectTerm was delicious and clearly fresh ingredients were used.
+food
+positive
+The food was delicious and clearly fresh aspectTerm were used.
+ingredients
+positive
+This made it obvious that the aspectTerm wasn't cooked fresh; it was obviously made before hand and then reheated.
+food
+negative
+aspectTerm are excellent here; you can make a great (and inexpensive) meal out of them.
+Appetizer
+positive
+Appetizer are excellent here; you can make a great (and inexpensive) aspectTerm out of them.
+meal
+positive
+The aspectTerm are a highlight.
+spicy mussels
+positive
+Also get the aspectTerm -- best we've ever had.
+Onion Rings
+positive
+However, being foodies, we were utterly disappointed with the aspectTerm.
+food
+negative
+Huge aspectTerm, great and attentive service, and pretty good prices.
+portions
+positive
+Huge portions, great and attentive aspectTerm, and pretty good prices.
+service
+positive
+Huge portions, great and attentive service, and pretty good aspectTerm.
+prices
+positive
+I was highly disappointed by their aspectTerm and food.
+service
+negative
+I was highly disappointed by their service and aspectTerm.
+food
+negative
+I complained to the aspectTerm and then to the manager, but the intensity of rudeness from them just went up.
+waiter
+negative
+I complained to the waiter and then to the aspectTerm, but the intensity of rudeness from them just went up.
+manager
+negative
+The aspectTerm is great and the milkshakes are even better!
+food
+positive
+The food is great and the aspectTerm are even better!
+milkshakes
+positive
+the aspectTerm is amazing.
+mushroom barley soup
+positive
+I'm glad I did as the aspectTerm was very good and the staff was friendly, courteous and efficient.
+food
+positive
+I'm glad I did as the food was very good and the aspectTerm was friendly, courteous and efficient.
+staff
+positive
+Their aspectTerm here is also absolutely delicious.
+duck
+positive
+While it was large and a bit noisy, the aspectTerm were fantastic, and the food was superb.
+drinks
+positive
+While it was large and a bit noisy, the drinks were fantastic, and the aspectTerm was superb.
+food
+positive
+One caveat: Some of the aspectTerm can be a trifle harsh.
+curried casseroles
+negative
+The aspectTerm was almost always EXCELLENT.
+food
+positive
+I was pleasently surprised at the aspectTerm.
+taste
+positive
+A nice space, as long as it doesn't get too crowded and a singleminded devotion to its chosen cuisine make Mare a great choice for aspectTerm lovers.
+seafood
+positive
+A nice aspectTerm, as long as it doesn't get too crowded and a singleminded devotion to its chosen cuisine make Mare a great choice for seafood lovers.
+space
+conflict
+A nice space, as long as it doesn't get too crowded and a singleminded devotion to its chosen aspectTerm make Mare a great choice for seafood lovers.
+cuisine
+positive
+I never had an aspectTerm before so I gave it a shot.
+orange donut
+neutral
+they really provide a relaxing, laid-back aspectTerm.
+atmosphere
+positive
+This particular location certainly uses substandard aspectTerm.
+meats
+negative
+The aspectTerm was less than accomodating.
+Management
+negative
+The aspectTerm is also more laid-back and relaxed.
+ambience
+positive
+the aspectTerm are great and all the sweets are homemade.
+teas
+positive
+the teas are great and all the aspectTerm are homemade.
+sweets
+positive
+aspectTerm and the service are the best part in there
+mojitos
+positive
+mojitos and the aspectTerm are the best part in there
+service
+positive
+aspectTerm, burgers and salads, like the lemon-dressed cobb, are classic successes.
+Sandwiches
+positive
+Sandwiches, aspectTerm and salads, like the lemon-dressed cobb, are classic successes.
+burgers
+positive
+Sandwiches, burgers and aspectTerm, like the lemon-dressed cobb, are classic successes.
+salads
+positive
+Sandwiches, burgers and salads, like the aspectTerm, are classic successes.
+lemon-dressed cobb
+positive
+The aspectTerm is very intimate and romantic.
+design
+positive
+The aspectTerm was wonderful and imaginative.
+food
+positive
+The aspectTerm is very sharp and they look good too.
+staff
+positive
+The worst though was the aspectTerm.
+taste
+negative
+The aspectTerm we tried was tasteless and burned and the mole sauce was way too sweet.
+fajita
+negative
+The fajita we tried was tasteless and burned and the aspectTerm was way too sweet.
+mole sauce
+negative
+Stay with the aspectTerm and you'll be fine.
+roasted chickens
+positive
+The aspectTerm is warm, comfortable, artsy and sexy.
+atmosphere
+positive
+The aspectTerm is great (big selection, reasonable prices) and the drinks are really good.
+food
+positive
+The food is great (big aspectTerm, reasonable prices) and the drinks are really good.
+selection
+positive
+The food is great (big selection, reasonable aspectTerm) and the drinks are really good.
+prices
+positive
+The food is great (big selection, reasonable prices) and the aspectTerm are really good.
+drinks
+positive
+The aspectTerm melted in my mouth.
+steak
+positive
+The food did take a few extra minutes to come, but the cute aspectTerm' jokes and friendliness made up for it.
+waiters
+positive
+The aspectTerm did take a few extra minutes to come, but the cute waiters' jokes and friendliness made up for it.
+food
+neutral
+Most importantly, it is reasonably aspectTerm.
+priced
+positive
+The aspectTerm is excellent (I'm not used to having much choice at restaurants), and the atmosphere is great.
+selection of food
+positive
+The selection of food is excellent (I'm not used to having much choice at restaurants), and the aspectTerm is great.
+atmosphere
+positive
+Only suggestion is that you skip the aspectTerm, it was overpriced and fell short on taste.
+dessert
+negative
+Only suggestion is that you skip the dessert, it was overpriced and fell short on aspectTerm.
+taste
+negative
+aspectTerm was decent, but not great.
+Food
+positive
+i dont know what some people who rave about this aspectTerm are talking about.
+hot dog
+negative
+it is a hidden delight complete with a quaint aspectTerm and good food.
+bar
+positive
+it is a hidden delight complete with a quaint bar and good aspectTerm.
+food
+positive
+The aspectTerm ALWAYS look angry and even ignore their high-tipping regulars.
+waiters
+negative
+the aspectTerm is very nice, and a welcome escape from the rest of the SI mall.
+atmosphere
+positive
+Yes, they're a bit more expensive then typical, but then again, so is their aspectTerm.
+food
+positive
+I can say that the aspectTerm, burgers and salads were all fresh, tasty and the mango margareta at $9 was WELL WORTH the money.
+wraps
+positive
+I can say that the wraps, aspectTerm and salads were all fresh, tasty and the mango margareta at $9 was WELL WORTH the money.
+burgers
+positive
+I can say that the wraps, burgers and aspectTerm were all fresh, tasty and the mango margareta at $9 was WELL WORTH the money.
+salads
+positive
+I can say that the wraps, burgers and salads were all fresh, tasty and the aspectTerm at $9 was WELL WORTH the money.
+mango margareta
+positive
+Anywhere else, the aspectTerm would be 3x as high!
+prices
+positive
+The aspectTerm we experienced was friendly and good.
+service
+positive
+Our aspectTerm was friendly and it is a shame that he didnt have a supportive staff to work with.
+waiter
+positive
+Our waiter was friendly and it is a shame that he didnt have a supportive aspectTerm to work with.
+staff
+negative
+The aspectTerm I was seated at was uncomfortable.
+folding chair
+negative
+aspectTerm was among the best I have ever had in NYC.
+Service
+positive
+The aspectTerm was amazing.
+fettucino alfredo
+positive
+The aspectTerm was very good and I was pleasantly surprised to see so many vegan options.
+food
+positive
+The food was very good and I was pleasantly surprised to see so many aspectTerm.
+vegan options
+positive
+I know real aspectTerm and this wasn't it.
+Indian food
+negative
+Be sure to try the aspectTerm...Lamb Chops, Veal Chops, Rabbit, the potato gratin, on and on and on...
+Smoked Trout
+positive
+Be sure to try the Smoked Trout...aspectTerm, Veal Chops, Rabbit, the potato gratin, on and on and on...
+Lamb Chops
+positive
+Be sure to try the Smoked Trout...Lamb Chops, aspectTerm, Rabbit, the potato gratin, on and on and on...
+Veal Chops
+positive
+Be sure to try the Smoked Trout...Lamb Chops, Veal Chops, aspectTerm, the potato gratin, on and on and on...
+Rabbit
+positive
+Be sure to try the Smoked Trout...Lamb Chops, Veal Chops, Rabbit, the aspectTerm, on and on and on...
+potato gratin
+positive
+Even when the aspectTerm is not in the house, the food and service are right on target.
+chef
+neutral
+Even when the chef is not in the house, the aspectTerm and service are right on target.
+food
+positive
+Even when the chef is not in the house, the food and aspectTerm are right on target.
+service
+positive
+Everything from the aspectTerm to the mussels and even the hamburger were done well and very tasty.
+eggs benedict
+positive
+Everything from the eggs benedict to the aspectTerm and even the hamburger were done well and very tasty.
+mussels
+positive
+Everything from the eggs benedict to the mussels and even the aspectTerm were done well and very tasty.
+hamburger
+positive
+The aspectTerm were very professional, courteous and attentive.
+waiters
+positive
+The aspectTerm was rather over cooked and dried but the chicken was fine.
+falafal
+negative
+The falafal was rather over cooked and dried but the aspectTerm was fine.
+chicken
+positive
+I highly reccomend the aspectTerm, it's insanely good.
+grand marnier shrimp
+positive
+We been there and we really enjoy the aspectTerm, was areally great food, and the service was really good.
+food
+positive
+We been there and we really enjoy the food, was areally great aspectTerm, and the service was really good.
+food
+positive
+We been there and we really enjoy the food, was areally great food, and the aspectTerm was really good.
+service
+positive
+aspectTerm include flan and sopaipillas.
+Desserts
+neutral
+Desserts include aspectTerm and sopaipillas.
+flan
+neutral
+Desserts include flan and aspectTerm.
+sopaipillas
+neutral
+I was starving and the small aspectTerm were driving me crazy!
+portions
+negative
+The aspectTerm was loud and inconsiderate.
+wait staff
+negative
+However, the aspectTerm and service and dramatically lacking.
+food
+negative
+However, the food and aspectTerm and dramatically lacking.
+service
+negative
+The aspectTerm is cut in blocks bigger than my cell phone.
+sushi
+negative
+The aspectTerm is great, my soup always arrives nice and hot.
+service
+positive
+The service is great, my aspectTerm always arrives nice and hot.
+soup
+positive
+It had been awhile and I forgot just how delicious aspectTerm can be.
+crepes
+positive
+Montparnasse's aspectTerm--especially the silken creme brulee and paper-thin apple tart--are good enough on their own to make the restaurant worth the trip.
+desserts
+positive
+Montparnasse's desserts--especially the silken aspectTerm and paper-thin apple tart--are good enough on their own to make the restaurant worth the trip.
+creme brulee
+positive
+Montparnasse's desserts--especially the silken creme brulee and paper-thin aspectTerm--are good enough on their own to make the restaurant worth the trip.
+apple tart
+positive
+i had a delicious aspectTerm.
+shrimp creole
+positive
+The aspectTerm was real good.
+chicken dinner
+positive
+Beware of the aspectTerm not unless you want to call the fire department to douse the flames in your mouth.
+chili signed food items
+negative
+The aspectTerm is designed in a contemporary Japanese style restaurant.
+decor
+neutral
+but the aspectTerm was delicious.
+food
+positive
+Try the ribs, sizzling beef and couple it with aspectTerm.
+coconut rice
+positive
+Try the aspectTerm, sizzling beef and couple it with coconut rice.
+ribs
+positive
+Try the ribs, sizzling aspectTerm and couple it with coconut rice.
+beef
+positive
+The aspectTerm is a personal fave.
+avocado salad
+positive
+And, the aspectTerm are yummy!
+honey BBQ rib tips
+positive
+The BEST aspectTerm Uptown!
+Chinese food
+positive
+aspectTerm is known for bending over backwards to make everyone happy.
+Service
+positive
+The aspectTerm is attractive, but a little uncomfortable.
+atmosphere
+conflict
+The aspectTerm is very friendly.
+staff
+positive
+aspectTerm are very friendly and the pasta is out of this world.
+Waiters
+positive
+Waiters are very friendly and the aspectTerm is out of this world.
+pasta
+positive
+Great aspectTerm and great cocktail menu.
+wine list
+positive
+Great wine list and great aspectTerm.
+cocktail menu
+positive
+The aspectTerm are delicious and the BBQ rib was perfect.
+crab cakes
+positive
+The crab cakes are delicious and the aspectTerm was perfect.
+BBQ rib
+positive
+The aspectTerm is wonderful, artfully done and simply delicious.
+food
+positive
+Tiny restaurant with very fast aspectTerm.
+service
+positive
+The aspectTerm may not be for everyone, since it is distintive.
+sauce
+conflict
+My husband and I have been there at least 6 times and we've always been given the highest aspectTerm and often free desserts.
+service
+positive
+My husband and I have been there at least 6 times and we've always been given the highest service and often free aspectTerm.
+desserts
+positive
+A beautiful aspectTerm, perfect for drinks and/or appetizers.
+atmosphere
+positive
+A beautiful atmosphere, perfect for aspectTerm and/or appetizers.
+drinks
+neutral
+A beautiful atmosphere, perfect for drinks and/or aspectTerm.
+appetizers
+neutral
+They make the best aspectTerm in New Jersey.
+pizza
+positive
+What a difference, the aspectTerm was very comforting and the food was better than average, but what really standed out was such a dynamic and extensive beer list.
+service
+positive
+What a difference, the service was very comforting and the aspectTerm was better than average, but what really standed out was such a dynamic and extensive beer list.
+food
+positive
+What a difference, the service was very comforting and the food was better than average, but what really standed out was such a dynamic and extensive aspectTerm.
+beer list
+positive
+Frankly, the aspectTerm here is something I can make better at home.
+chinese food
+negative
+There was only one aspectTerm for the whole restaurant upstairs.
+waiter
+neutral
+We started with the aspectTerm and asparagus and also had the soft shell crab as well as the cheese plate.
+scallops
+neutral
+We started with the scallops and aspectTerm and also had the soft shell crab as well as the cheese plate.
+asparagus
+neutral
+We started with the scallops and asparagus and also had the aspectTerm as well as the cheese plate.
+soft shell crab
+neutral
+We started with the scallops and asparagus and also had the soft shell crab as well as the aspectTerm.
+cheese plate
+neutral
+Not to be overlooked, the aspectTerm is excellent.
+service
+positive
+this without question is one of the worst aspectTerm i have ever had.
+hotdogs
+negative
+The aspectTerm is unbelievably friendly, and I dream about their Saag gosht...so good.
+staff
+positive
+The staff is unbelievably friendly, and I dream about their aspectTerm...so good.
+Saag gosht
+positive
+I also recommend the aspectTerm.
+garlic knots
+positive
+Best aspectTerm I have ever eaten.
+Indian food
+positive
+This place has the best aspectTerm.
+pizza
+positive
+The aspectTerm which is sometimes a little too heavy for my taste.
+music
+negative
+The aspectTerm is excellent and always informative without an air.
+service
+positive
+The aspectTerm and staff go to great lengths to make you feel comfortable.
+owner
+positive
+The owner and aspectTerm go to great lengths to make you feel comfortable.
+staff
+positive
+The aspectTerm is always fresh and yummy and the menu is pretty varied.
+sushi
+positive
+The sushi is always fresh and yummy and the aspectTerm is pretty varied.
+menu
+positive
+The aspectTerm was great - sushi was good, but the cooked food amazed us.
+food
+positive
+The food was great - aspectTerm was good, but the cooked food amazed us.
+sushi
+positive
+The food was great - sushi was good, but the aspectTerm amazed us.
+cooked food
+positive
+their aspectTerm are fantastic.
+dinner specials
+positive
+Great aspectTerm, great drinks, nice dining atmosphere.
+food
+positive
+Great food, great aspectTerm, nice dining atmosphere.
+drinks
+positive
+Great food, great drinks, nice aspectTerm.
+dining atmosphere
+positive
+For the aspectTerm you pay for the food here, you'd expect it to be at least on par with other Japanese restaurants.
+price
+negative
+For the price you pay for the aspectTerm here, you'd expect it to be at least on par with other Japanese restaurants.
+food
+negative
+aspectTerm was SMALL and below average.
+Food portion
+negative
+Sit back in one of those comfortable aspectTerm.
+chairs
+positive
+My favs here are the aspectTerm and the Tostada de Tinga...
+Tacos Pastor
+positive
+My favs here are the Tacos Pastor and the aspectTerm...
+Tostada de Tinga
+positive
+The aspectTerm and the managers are really nice and the decor is very comfy and laid-back, all the while being trendy.
+bartenders
+positive
+The bartenders and the aspectTerm are really nice and the decor is very comfy and laid-back, all the while being trendy.
+managers
+positive
+The bartenders and the managers are really nice and the aspectTerm is very comfy and laid-back, all the while being trendy.
+decor
+positive
+For a savory take on the soup and sandwich meal, try the aspectTerm.
+hot and sour soup
+positive
+For a savory take on the aspectTerm, try the hot and sour soup.
+soup and sandwich meal
+positive
+This bar has it all - great aspectTerm, cool atmosphere, excellent service and delicious food.
+drinks
+positive
+This bar has it all - great drinks, cool aspectTerm, excellent service and delicious food.
+atmosphere
+positive
+This bar has it all - great drinks, cool atmosphere, excellent aspectTerm and delicious food.
+service
+positive
+This bar has it all - great drinks, cool atmosphere, excellent service and delicious aspectTerm.
+food
+positive
+Also, the aspectTerm is divine.
+chick peas with shrimp (appetizer)
+positive
+Finally, I got sick of the bad aspectTerm, obnoxious smirks, and snotty back talk.
+service
+negative
+We ordered aspectTerm which was perfectly cooked and tasted awesome.
+lamb
+positive
+i especially like their aspectTerm.
+soft shell crab sandwich with fries
+positive
+if you're looking for authentic aspectTerm, look no further.
+hong kong-style food
+positive
+good aspectTerm good wine that's it.
+food
+positive
+good food good aspectTerm that's it.
+wine
+positive
+The aspectTerm was extremely friendly and pleasant.
+staff
+positive
+While their aspectTerm is delicious, their Sushi is out of this world.
+kitchen food
+positive
+While their kitchen food is delicious, their aspectTerm is out of this world.
+Sushi
+positive
+everything is scrumptious, from the excellent aspectTerm by cute waitresses, to the extremely lush atmosphere.
+service
+positive
+everything is scrumptious, from the excellent service by cute aspectTerm, to the extremely lush atmosphere.
+waitresses
+positive
+everything is scrumptious, from the excellent service by cute waitresses, to the extremely lush aspectTerm.
+atmosphere
+positive
+It's traditional, simple aspectTerm.
+italian food
+positive
+The aspectTerm is all-around good, with the rolls usually excellent and the sushi/sashimi not quite on the same level.
+food
+positive
+The food is all-around good, with the aspectTerm usually excellent and the sushi/sashimi not quite on the same level.
+rolls
+positive
+The food is all-around good, with the rolls usually excellent and the aspectTerm not quite on the same level.
+sushi/sashimi
+neutral
+(The aspectTerm is cut a little thinly.
+sashimi
+negative
+Could have had better for 1/3 the aspectTerm in Chinatown.
+price
+negative
+In addition to great aspectTerm, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and English muffins, a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham.
+hot dogs
+positive
+In addition to great hot dogs, DOTP has wonderful aspectTerm that feature, in addition to great things like tator tots and English muffins, a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham.
+breakfast sandwiches
+positive
+In addition to great hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like aspectTerm and English muffins, a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham.
+tator tots
+positive
+In addition to great hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and aspectTerm, a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham.
+English muffins
+positive
+In addition to great hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and English muffins, a delicious NJ-based pork product know to us Jersey girls and boys as aspectTerm.
+Taylor ham
+positive
+In addition to great hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and English muffins, a delicious NJ-based aspectTerm know to us Jersey girls and boys as Taylor ham.
+pork product
+positive
+Well, it happened because of a graceless aspectTerm and a rude bartender who had us waiting 20 minutes for drinks, and then tells us to chill out.
+manager
+negative
+Well, it happened because of a graceless manager and a rude aspectTerm who had us waiting 20 minutes for drinks, and then tells us to chill out.
+bartender
+negative
+Well, it happened because of a graceless manager and a rude bartender who had us waiting 20 minutes for aspectTerm, and then tells us to chill out.
+drinks
+neutral
+Well, it happened because of a graceless manager and a rude bartender who had us aspectTerm 20 minutes for drinks, and then tells us to chill out.
+waiting
+negative
+Not only is the aspectTerm great, but forming conversation around a table is so easy beacuse the atmosphere can be both romantic and comfortable.
+service
+positive
+Not only is the service great, but forming conversation around a table is so easy beacuse the aspectTerm can be both romantic and comfortable.
+atmosphere
+positive
+When the dish arrived it was blazing with aspectTerm, definitely not edible by a human.
+green chillis
+negative
+When the aspectTerm arrived it was blazing with green chillis, definitely not edible by a human.
+dish
+negative
+The absolute worst aspectTerm I've ever experienced and the food was below average (when they actually gave people the meals they ordered).
+service
+negative
+The absolute worst service I've ever experienced and the aspectTerm was below average (when they actually gave people the meals they ordered).
+food
+negative
+The absolute worst service I've ever experienced and the food was below average (when they actually gave people the aspectTerm they ordered).
+meals
+neutral
+It's about $7 for aspectTerm and they have take-out or dine-in.
+lunch
+neutral
+It's about $7 for lunch and they have aspectTerm or dine-in.
+take-out
+neutral
+It's about $7 for lunch and they have take-out or aspectTerm.
+dine-in
+neutral
+Be sure to accompany your aspectTerm with one of their fresh juice concoctions.
+food
+neutral
+Be sure to accompany your food with one of their aspectTerm.
+fresh juice concoctions
+positive
+The aspectTerm is great and the prices are reasonable.
+food
+positive
+The food is great and the aspectTerm are reasonable.
+prices
+positive
+The aspectTerm is clean, and if you like soul food, then this is the place to be!
+place
+positive
+The place is clean, and if you like aspectTerm, then this is the place to be!
+soul food
+positive
+I had aspectTerm and a salad.
+roast chicken
+neutral
+I had roast chicken and a aspectTerm.
+salad
+neutral
+They have a very good aspectTerm and good tuna as well.
+chicken with avocado
+positive
+They have a very good chicken with avocado and good aspectTerm as well.
+tuna
+positive
+But the aspectTerm were terrible.
+meals
+negative
+My aspectTerm was completely dried out and on the cold side and the sauce was not very flavorful.
+chicken
+negative
+My chicken was completely dried out and on the cold side and the aspectTerm was not very flavorful.
+sauce
+negative
+aspectTerm - have you ever in your life heard of anything so ridiculously wonderful?
+Malted Milk Ball Gelato
+positive
+Way too much money for such a terrible aspectTerm.
+meal
+negative
+However, the aspectTerm is absolutely horrible.
+service
+negative
+A con was the slow aspectTerm.
+bar service
+negative
+aspectTerm was also to die for!
+Dessert
+positive
+BTW, the aspectTerm is very good .
+service
+positive
+It's eaten with aspectTerm and shredded ginger.
+black vinegar
+neutral
+It's eaten with black vinegar and aspectTerm.
+shredded ginger
+neutral
+The unattractive aspectTerm made me want to gag, the food was overpriced, there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate.
+lighting
+negative
+The unattractive lighting made me want to gag, the aspectTerm was overpriced, there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate.
+food
+negative
+The unattractive lighting made me want to gag, the food was overpriced, there was the most awful aspectTerm performing-and my escargot looked like it might crawl off the plate.
+disco pop duo
+negative
+The unattractive lighting made me want to gag, the food was overpriced, there was the most awful disco pop duo performing-and my aspectTerm looked like it might crawl off the plate.
+escargot
+negative
+it is a cozy aspectTerm to go with a couple of friends.
+place
+positive
+The aspectTerm is always great, and the owner walks around to make sure you enjoy.
+service
+positive
+The service is always great, and the aspectTerm walks around to make sure you enjoy.
+owner
+positive
+because the aspectTerm need SEVERE ATTITUE ADJUSTMENTS.
+waiters
+negative
+the aspectTerm is delicious and highly recommended.
+food
+positive
+When it came time to take the order the aspectTerm gave us a hard time, walked away then came back with a paper and pen for us to write down what we wanted...excuse me but isn't that his job???
+waiter
+negative
+Dieters stick to aspectTerm or indulge in vegetarian platters.
+salads
+positive
+Dieters stick to salads or indulge in aspectTerm.
+vegetarian platters
+positive
+So for a filling and healthy aspectTerm give it a go.
+meal
+positive
+Since I cook for a living, I'm very fussy about the aspectTerm I eat in restaurants.
+food
+neutral
+The aspectTerm was outstanding.
+service
+positive
+My friends and I stop here for aspectTerm before hitting the Kips Bay movie theater.
+pizza
+neutral
+We always enjoy the aspectTerm.
+pizza
+positive
+The aspectTerm is pretty good.
+service
+positive
+Yum, the aspectTerm is great here.
+chicken
+positive
+The aspectTerm here was great, a treat from beginning to end.
+food
+positive
+The aspectTerm and servers are personable and caring.
+host (owner)
+positive
+The host (owner) and aspectTerm are personable and caring.
+servers
+positive
+It's just everything...the aspectTerm, the atmosphere...the incrediby kind and gracious hostess.
+food
+positive
+It's just everything...the food, the aspectTerm...the incrediby kind and gracious hostess.
+atmosphere
+positive
+It's just everything...the food, the atmosphere...the incrediby kind and gracious aspectTerm.
+hostess
+positive
+The aspectTerm is very good and the service is great.
+food
+positive
+The food is very good and the aspectTerm is great.
+service
+positive
+I usually get one the aspectTerm.
+Vietnamese Beef Noodle Soup
+neutral
+We were wondering why they were there to make our aspectTerm miserable?
+dining experience
+negative
+This place has the best aspectTerm in New York, hands down.
+Indian food
+positive
+The aspectTerm are very friendly and helpful and if you frequent they will remember you.
+waiters
+positive
+Intimate but charming aspectTerm with extremely friendly and attentive service.
+interior
+positive
+Intimate but charming interior with extremely friendly and attentive aspectTerm.
+service
+positive
+The aspectTerm was as creative as the decor and both worked.
+food
+positive
+The food was as creative as the aspectTerm and both worked.
+decor
+positive
+The aspectTerm is great, with a good selection, and everything that I have tried is absolutely delicious.
+menu
+positive
+The menu is great, with a good aspectTerm, and everything that I have tried is absolutely delicious.
+selection
+positive
+The aspectTerm is zesty and flavorful and the crust is nice and crispy.
+sauce
+positive
+The sauce is zesty and flavorful and the aspectTerm is nice and crispy.
+crust
+positive
+This place has the best aspectTerm in the city.
+sushi
+positive
+They have an excellent aspectTerm (the rolls with crab are really great).
+selection
+positive
+They have an excellent selection (the aspectTerm are really great).
+rolls with crab
+positive
+Everyone who works there (the aspectTerm, the bartender, the servers) is so helpful.
+host
+positive
+Everyone who works there (the host, the aspectTerm, the servers) is so helpful.
+bartender
+positive
+Everyone who works there (the host, the bartender, the aspectTerm) is so helpful.
+servers
+positive
+And the aspectTerm is fantastic.
+food
+positive
+Favourites include: aspectTerm and the lamb.
+potato spinach gnocchi
+positive
+Favourites include: potato spinach gnocchi and the aspectTerm.
+lamb
+positive
+Unfortunately, we chose this spot for aspectTerm as we had done a lot of walking and ended up at the South St Seaport.
+lunch
+neutral
+But regulars know that the aspectTerm are the real star here.
+sandwiches
+positive
+The skillfully chosen Portuguese cheese cart paired with quality aspectTerm provides the perfect Iberian ending.
+port
+positive
+The skillfully chosen aspectTerm paired with quality port provides the perfect Iberian ending.
+Portuguese cheese cart
+positive
+My friend had a aspectTerm and I had these wonderful blueberry pancakes.
+burger
+neutral
+My friend had a burger and I had these wonderful aspectTerm.
+blueberry pancakes
+positive
+We were so happy with our aspectTerm and were even more thrilled when we saw the bill.
+food
+positive
+We were so happy with our food and were even more thrilled when we saw the aspectTerm.
+bill
+positive
+All aspectTerm are so fresh you'd think they had their own vegetable garden and the crust is so perfect, that one actually thinks of how it was made.
+toppings
+positive
+All toppings are so fresh you'd think they had their own vegetable garden and the aspectTerm is so perfect, that one actually thinks of how it was made.
+crust
+positive
+We've always gotten amazing aspectTerm and we love the food.
+service
+positive
+We've always gotten amazing service and we love the aspectTerm.
+food
+positive
+The aspectTerm is solicitous and friendly and always seems glad to see us, and the food is wonderful, if not stunningly creative.
+waitstaff
+positive
+The waitstaff is solicitous and friendly and always seems glad to see us, and the aspectTerm is wonderful, if not stunningly creative.
+food
+positive
+I'm in love with the aspectTerm!
+lobster ravioli
+positive
+We came across this restaurant by accident while at a DUMBO art festival and thoroughly enjoyed our aspectTerm.
+meal
+positive
+aspectTerm is excellent, no wait, and you get a lot for the price.
+Service
+positive
+Service is excellent, no wait, and you get a lot for the aspectTerm.
+price
+positive
+Service is excellent, no aspectTerm, and you get a lot for the price.
+wait
+positive
+I thought the aspectTerm isn't cheap at all compared to Chinatown.
+food
+negative
+aspectTerm is a better deal than overpriced Cosi sandwiches.
+Coffee
+positive
+Coffee is a better deal than overpriced aspectTerm.
+Cosi sandwiches
+negative
+We didn't know if we should order a aspectTerm or leave?
+drink
+neutral
+) It's not the best Japanese restaurant in the East Village, but it's a pretty solid one for its modest aspectTerm, and worth repeat visits.
+prices
+positive
+The aspectTerm is so good and so popular that waiting can really be a nightmare.
+food
+positive
+The food is so good and so popular that aspectTerm can really be a nightmare.
+waiting
+negative
+First walking in the aspectTerm seemed to have great ambience.
+place
+positive
+First walking in the place seemed to have great aspectTerm.
+ambience
+positive
+I went to Kitchenette this weekend for aspectTerm.
+brunch
+neutral
+Even for two very hungry people there is plenty of aspectTerm left to be taken home (it reheats really well also).
+food
+positive
+Then they somehow made a dry and burnt aspectTerm, around a raw and cold inside.
+crust
+negative
+It's just good aspectTerm, nothing more and that's all we want!
+food
+positive
+Average aspectTerm thats been courted by a LOT of hype.
+cake
+negative
+My wife and I recently visited the bistro for aspectTerm and had a wonderful experience.
+dinner
+neutral
+THE aspectTerm IS PERFECT TOO  NOTHING WRONG IN THIS ITALIAN/FRENCH RESTAURANT
+SERVICE
+positive
+The $72 aspectTerm had to be sent back because it was not cooked to order.
+Delmonico steak
+negative
+Everytime I go there I can't pick anything to eat and not because the aspectTerm is filled with great things to eat.
+menu
+negative
+Half a chicken with a mountain of aspectTerm and beans for $6.25.
+rice
+neutral
+Half a chicken with a mountain of rice and aspectTerm for $6.25.
+beans
+neutral
+Half a aspectTerm with a mountain of rice and beans for $6.25.
+chicken
+neutral
+The aspectTerm is really fast and friendly, and the value is great.
+service
+positive
+The service is really fast and friendly, and the aspectTerm is great.
+value
+positive
+We were very impressed with the aspectTerm and value.
+food
+positive
+We were very impressed with the food and aspectTerm.
+value
+positive
+You must try the aspectTerm!
+garlic soup
+positive
+Casablanca servces delicious aspectTerm, tabouleh, humus and other Mediterranean delights, which are all very inexpensive.
+falafel
+positive
+Casablanca servces delicious falafel, aspectTerm, humus and other Mediterranean delights, which are all very inexpensive.
+tabouleh
+positive
+Casablanca servces delicious falafel, tabouleh, aspectTerm and other Mediterranean delights, which are all very inexpensive.
+humus
+positive
+Casablanca servces delicious falafel, tabouleh, humus and other aspectTerm, which are all very inexpensive.
+Mediterranean delights
+positive
+The aspectTerm are made fresh, crispy, and ready to serve.
+pizza's
+positive
+aspectTerm is accomodating make sure you are satified.
+Staff
+positive
+aspectTerm Waldy's always measures up.
+Chef
+positive
+Reasonably priced with very fresh aspectTerm.
+sushi
+positive
+Reasonably aspectTerm with very fresh sushi.
+priced
+positive
+Go for the aspectTerm.
+Seafood Paella for two
+positive
+All of the aspectTerm are good and the Sangria is very good.
+apetizers
+positive
+All of the apetizers are good and the aspectTerm is very good.
+Sangria
+positive
+The one positive thing I can say is that the aspectTerm was prompt, we got seated right away and the server was very friendly.
+service
+positive
+The one positive thing I can say is that the service was prompt, we got seated right away and the aspectTerm was very friendly.
+server
+positive
+The aspectTerm greeted me warmly at the door and I was seated promptly and the food was excellent.
+staff
+positive
+The staff greeted me warmly at the door and I was seated promptly and the aspectTerm was excellent.
+food
+positive
+aspectTerm is usually pretty good.
+Service
+positive
+aspectTerm and Hostess was quite rude.
+Host
+negative
+Host and aspectTerm was quite rude.
+Hostess
+negative
+the aspectTerm is very friendly, if your not rude or picky.......our meal at Leon last weekend was great -.
+wait staff
+positive
+the wait staff is very friendly, if your not rude or picky.......our aspectTerm at Leon last weekend was great -.
+meal
+positive
+I recommend any of their aspectTerm......
+salmon dishes
+positive
+The aspectTerm was sweet and luscious.
+foie gras
+positive
+The aspectTerm, which changes seasonally, shows both regional and international influences.
+menu
+neutral
+but their aspectTerm was YUMMY!
+mac cheese
+positive
+their aspectTerm had something for everyone.
+brunch menu
+positive
+aspectTerm had a nice voice + she made us all get up to dance to shake some cals to eat some more.
+jazz singer
+positive
+They have very quick aspectTerm which is great when you don't have much time.
+service
+positive
+The aspectTerm is average: breakfast food, soups, salads, sandwiches, etc.
+food
+neutral
+The food is average: aspectTerm, soups, salads, sandwiches, etc.
+breakfast food
+neutral
+The food is average: breakfast food, aspectTerm, salads, sandwiches, etc.
+soups
+neutral
+The food is average: breakfast food, soups, aspectTerm, sandwiches, etc.
+salads
+neutral
+The food is average: breakfast food, soups, salads, aspectTerm, etc.
+sandwiches
+neutral
+I WAS HIGHLY DISAPPOINTED BY THE aspectTerm.
+FOOD
+negative
+THE aspectTerm THEY SERVE HAS NEVER SEEN AN OVEN,THE CRABCAKES ARE WAY OVER SALTED AND DON'T GET ME STARTED ON THE VERY GREASY MAC AND CHEESE.
+BANANA PUDDING
+negative
+THE BANANA PUDDING THEY SERVE HAS NEVER SEEN AN OVEN,THE aspectTerm ARE WAY OVER SALTED AND DON'T GET ME STARTED ON THE VERY GREASY MAC AND CHEESE.
+CRABCAKES
+negative
+THE BANANA PUDDING THEY SERVE HAS NEVER SEEN AN OVEN,THE CRABCAKES ARE WAY OVER SALTED AND DON'T GET ME STARTED ON THE VERY GREASY aspectTerm.
+MAC AND CHEESE
+negative
+The aspectTerm is arrogant, the prices are way high for Brooklyn.
+staff
+negative
+The staff is arrogant, the aspectTerm are way high for Brooklyn.
+prices
+negative
+the aspectTerm is prompt friendly.
+service
+positive
+This is literally a hot spot when it comes to the aspectTerm.
+food
+positive
+The aspectTerm is very cool and chill...
+downstairs bar scene
+positive
+The aspectTerm was definitely good, but when all was said and done, I just couldn't justify it for the price (including 2 drinks, $100/person)...
+food
+positive
+The food was definitely good, but when all was said and done, I just couldn't justify it for the aspectTerm (including 2 drinks, $100/person)...
+price
+negative
+The food was definitely good, but when all was said and done, I just couldn't justify it for the price (including 2 aspectTerm, $100/person)...
+drinks
+neutral
+I've come here for aspectTerm as well as for a friend's birthday and I always enjoy myself.
+casual lunches
+neutral
+If you are a aspectTerm fan you will not be disappointed.
+Tequila
+positive
+Great aspectTerm too, something like 50 beers.
+beer selection
+positive
+Great beer selection too, something like 50 aspectTerm.
+beers
+neutral
+Not to sound too negative but be wary of the aspectTerm.
+delivary
+negative
+I found the aspectTerm to be just as good as its owner, Da Silvano, just much less expensive.
+food
+positive
+I found the food to be just as good as its aspectTerm, Da Silvano, just much less expensive.
+owner
+positive
+They have aspectTerm of all kinds -- I recommend the gnocchi -- yum!
+homemade pastas
+positive
+They have homemade pastas of all kinds -- I recommend the aspectTerm -- yum!
+gnocchi
+positive
+My aspectTerm was burnt, and infused totally in a burnt flavor.
+vegetable risotto
+negative
+My vegetable risotto was burnt, and infused totally in a burnt aspectTerm.
+flavor
+negative
+The main draw of this place is the aspectTerm.
+price
+positive
+How can hope to stay in business with aspectTerm like this?
+service
+negative
+But aspectTerm here is never disappointing, even if the prices are a bit over the top.
+dinner
+positive
+But dinner here is never disappointing, even if the aspectTerm are a bit over the top.
+prices
+negative
+Not only did they have amazing, aspectTerm, soup, pizza etc, but their homemade sorbets are out of this world!
+sandwiches
+positive
+Not only did they have amazing, sandwiches, aspectTerm, pizza etc, but their homemade sorbets are out of this world!
+soup
+positive
+Not only did they have amazing, sandwiches, soup, aspectTerm etc, but their homemade sorbets are out of this world!
+pizza
+positive
+Not only did they have amazing, sandwiches, soup, pizza etc, but their aspectTerm are out of this world!
+homemade sorbets
+positive
+the aspectTerm, the unbelievable entree, and thee most amazing deserts.
+homemade Guacamole
+positive
+the homemade Guacamole, the unbelievable aspectTerm, and thee most amazing deserts.
+entree
+positive
+the homemade Guacamole, the unbelievable entree, and thee most amazing aspectTerm.
+deserts
+positive
+The aspectTerm is reasonably priced and fresh.
+sushi
+positive
+The sushi is reasonably aspectTerm and fresh.
+priced
+positive
+Save room for aspectTerm - they're to die for.
+deserts
+positive
+Best things to order are from the aspectTerm (Churrasco and Ribs).
+grill
+positive
+Best things to order are from the grill (aspectTerm and Ribs).
+Churrasco
+positive
+Best things to order are from the grill (Churrasco and aspectTerm).
+Ribs
+positive
+The aspectTerm are great - cheap and served in a cozy setting.
+traditional Italian items
+positive
+The traditional Italian items are great - cheap and served in a cozy aspectTerm.
+setting
+positive
+The traditional Italian items are great - cheap and aspectTerm in a cozy setting.
+served
+positive
+Whether your choose the aspectTerm or the hot white mocha you are sure to be extremely happy.
+iced blended mocha
+positive
+Whether your choose the iced blended mocha or the aspectTerm you are sure to be extremely happy.
+hot white mocha
+positive
+last Tuesday for a aspectTerm with a friend.
+late lunch
+neutral
+Another friend had to ask 3 times for aspectTerm.
+parmesan cheese
+neutral
+Our aspectTerm had apparently never tried any of the food, and there was no one to recommend any wine.
+waitress
+negative
+Our waitress had apparently never tried any of the aspectTerm, and there was no one to recommend any wine.
+food
+neutral
+Our waitress had apparently never tried any of the food, and there was no one to recommend any aspectTerm.
+wine
+neutral
+The aspectTerm was a bit slow and the portions are a bit small so if you are hungry and in a rush, this is not the place for you.
+service
+negative
+The service was a bit slow and the aspectTerm are a bit small so if you are hungry and in a rush, this is not the place for you.
+portions
+negative
+The aspectTerm was pretty cool, but not worth the hassle.
+ambiance
+conflict
+The unfortunate lady next to us thought she had ordered a aspectTerm (including asking for salad dressing) and was instead given a quesedilla.
+salad
+neutral
+The unfortunate lady next to us thought she had ordered a salad (including asking for aspectTerm) and was instead given a quesedilla.
+salad dressing
+neutral
+The unfortunate lady next to us thought she had ordered a salad (including asking for salad dressing) and was instead given a aspectTerm.
+quesedilla
+neutral
+El Nidos one of the best restaurants in New York which I've ever been to, has a great variety of tasty, mouth watering aspectTerm.
+pizza's
+positive
+The aspectTerm was pretty poor all around, the food was well below average relative to the cost, and outside there is a crazy bum who harasses every customer who leaves the place.
+service
+negative
+The service was pretty poor all around, the aspectTerm was well below average relative to the cost, and outside there is a crazy bum who harasses every customer who leaves the place.
+food
+negative
+The service was pretty poor all around, the food was well below average relative to the aspectTerm, and outside there is a crazy bum who harasses every customer who leaves the place.
+cost
+negative
+Although I moved uptown I try to stop in as often as possible for the GREAT cheap aspectTerm and to pay the friendly staff a visit.
+food
+positive
+Although I moved uptown I try to stop in as often as possible for the GREAT cheap food and to pay the friendly aspectTerm a visit.
+staff
+positive
+I had to wait for my friend at the aspectTerm for a few minutes
+bar
+neutral
+aspectTerm Vincenzo, always there if you need him, is a real talent and a real Roman.
+Chef
+positive
+If you're looking to taste some great aspectTerm and want good service, definitely visit Curry Leaf.
+Indian food
+positive
+If you're looking to taste some great Indian food and want good aspectTerm, definitely visit Curry Leaf.
+service
+positive
+You must try aspectTerm or Rabbit stew; salads-all good; and kompot is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).
+Odessa stew
+positive
+You must try Odessa stew or aspectTerm; salads-all good; and kompot is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).
+Rabbit stew
+positive
+You must try Odessa stew or Rabbit stew; aspectTerm-all good; and kompot is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).
+salads
+positive
+You must try Odessa stew or Rabbit stew; salads-all good; and aspectTerm is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).
+kompot
+positive
+My daughter and I left feeling satisfied (not stuffed) and it felt good to know we had a healthy aspectTerm.
+lunch
+positive
+When she complained, the aspectTerm said, Sorry.
+waitress
+neutral
+The aspectTerm was on par with your local grocery store.
+quality of the meat
+negative
+They specialize in aspectTerm and fresh juices.
+smoothies
+positive
+They specialize in smoothies and aspectTerm.
+fresh juices
+positive
+I recommend the aspectTerm, it was the best dish of the evening.
+black roasted codfish
+positive
+I recommend the black roasted codfish, it was the best aspectTerm of the evening.
+dish
+positive
+The manager then told us we could order from whatever menu we wanted but by that time we were so annoyed with the aspectTerm and the resturant that we let and went some place else.
+waiter
+negative
+The manager then told us we could order from whatever aspectTerm we wanted but by that time we were so annoyed with the waiter and the resturant that we let and went some place else.
+menu
+neutral
+The aspectTerm then told us we could order from whatever menu we wanted but by that time we were so annoyed with the waiter and the resturant that we let and went some place else.
+manager
+neutral
+In mi burrito, here was nothing but dark chicken that had that cooked last week and just warmed up in a microwave aspectTerm.
+taste
+negative
+In mi burrito, here was nothing but dark aspectTerm that had that cooked last week and just warmed up in a microwave taste.
+chicken
+negative
+during busy hrs, i recommend that you make a aspectTerm.
+reservation
+neutral
+I went to Common Stock for aspectTerm and I was so impressed.
+brunch
+neutral
+now called nikki sushi, aspectTerm is OK.
+sushi
+neutral
+The aspectTerm is also outstanding and is served quite quickly.
+food
+positive
+The food is also outstanding and is aspectTerm quite quickly.
+served
+positive
+From the aspectTerm to the mostarda on the cheese plate, the dishes at this restaurant are all handled with delicate care.
+erbazzone emiliana
+positive
+From the erbazzone emiliana to the aspectTerm, the dishes at this restaurant are all handled with delicate care.
+mostarda on the cheese plate
+positive
+From the erbazzone emiliana to the mostarda on the cheese plate, the aspectTerm at this restaurant are all handled with delicate care.
+dishes
+positive
+The aspectTerm is delicious and the bar has a great vibe.
+food
+positive
+The food is delicious and the aspectTerm has a great vibe.
+bar
+positive
+The food is delicious and the bar has a great aspectTerm.
+vibe
+positive
+There's aspectTerm and music.
+candlelight
+neutral
+There's candlelight and aspectTerm.
+music
+neutral
+Simple healthy unglamorous aspectTerm cheap.
+food
+positive
+It was such a fantastic aspectTerm, that I returned again the same week.
+dining experience
+positive
+To be fair, the aspectTerm still is good and the service is quick and attentative even though its usually very busy.
+food
+positive
+To be fair, the food still is good and the aspectTerm is quick and attentative even though its usually very busy.
+service
+positive
+The aspectTerm is absolutely adorable and the food is delicious.
+place
+positive
+The place is absolutely adorable and the aspectTerm is delicious.
+food
+positive
+I ordered the aspectTerm and my husband got Garlic Shrimp.
+Chicken Teriyaki
+neutral
+I ordered the Chicken Teriyaki and my husband got aspectTerm.
+Garlic Shrimp
+neutral
+I've had better aspectTerm at a mall food court.
+Japanese food
+negative
+The aspectTerm are extremely friendly and even replaced my drink once when I dropped it outside.
+staff members
+positive
+The staff members are extremely friendly and even replaced my aspectTerm once when I dropped it outside.
+drink
+neutral
+Cool aspectTerm but such a let down.
+atmosphere
+positive
+The aspectTerm are big enough to appease most people, but I didn't like the fact they used artifical lobster meat.
+Sashimi portion
+positive
+The Sashimi portion are big enough to appease most people, but I didn't like the fact they used aspectTerm.
+artifical lobster meat
+negative
+They have aspectTerm made with really fresh and yummy ingredients.
+wheat crusted pizza
+positive
+They have wheat crusted pizza made with really fresh and yummy aspectTerm.
+ingredients
+positive
+Had a lovely aspectTerm in this dedicated seafood joint, food was well-prepared and -presented and the service was pleasant and prompt.
+dinner
+positive
+Had a lovely dinner in this dedicated seafood joint, aspectTerm was well-prepared and -presented and the service was pleasant and prompt.
+food
+positive
+Had a lovely dinner in this dedicated seafood joint, food was well-prepared and -presented and the aspectTerm was pleasant and prompt.
+service
+positive
+the icing MADE this aspectTerm, it was fluffy, not ultra sweet, creamy and light.
+cake
+positive
+Finally let into the store 5 at a time, to buy expensive slices from a harried aspectTerm.
+staff
+negative
+Finally let into the store 5 at a time, to buy expensive aspectTerm from a harried staff.
+slices
+negative
+We ended up having to just leave because we were essentially being ignored by the aspectTerm--even though the rest of the restaurant was largely empty.
+wait staff
+negative
+The aspectTerm is extensive, well priced and covers alot of regions.
+wine list
+positive
+The wine list is extensive, well aspectTerm and covers alot of regions.
+priced
+positive
+Go here if you want fresh and tasty aspectTerm of any type you can imagine.
+salads
+positive
+Everything about this place is adorable - even the aspectTerm!
+bathroom
+positive
+Speedy aspectTerm, great food, decent prices, and friendly service combine to ensure an enjoyable repast.
+delivers
+positive
+Speedy delivers, great aspectTerm, decent prices, and friendly service combine to ensure an enjoyable repast.
+food
+positive
+Speedy delivers, great food, decent aspectTerm, and friendly service combine to ensure an enjoyable repast.
+prices
+positive
+Speedy delivers, great food, decent prices, and friendly aspectTerm combine to ensure an enjoyable repast.
+service
+positive
+Speedy delivers, great food, decent prices, and friendly service combine to ensure an enjoyable aspectTerm.
+repast
+positive
+THEY HAVE aspectTerm ON THE SIDEWALK TRYING TO PULL YOU IN WHICH MADE US SUSPICIOUS.
+WAITERS
+neutral
+IT WAS OUR ONLY OPPORTUNITY TO VISIT AND WANTED AN AUTHENTIC aspectTerm.
+ITALIAN MEAL
+neutral
+It took 100 years for Parisi to get around to making aspectTerm (at least I don't think they ever made it before this year)...but it was worth the wait.
+pizza
+positive
+I asked for a simple medium rare aspectTerm.
+steak
+neutral
+Generously garnished, aspectTerm are the most popular dish, but the Jerusalem market-style falafel wraps and Mediterranean salads--layered with beets, goat cheese and walnuts--are equally scrumptious.
+organic grilled burgers
+positive
+Generously garnished, organic grilled burgers are the most popular aspectTerm, but the Jerusalem market-style falafel wraps and Mediterranean salads--layered with beets, goat cheese and walnuts--are equally scrumptious.
+dish
+positive
+Generously garnished, organic grilled burgers are the most popular dish, but the aspectTerm and Mediterranean salads--layered with beets, goat cheese and walnuts--are equally scrumptious.
+Jerusalem market-style falafel wraps
+positive
+Generously garnished, organic grilled burgers are the most popular dish, but the Jerusalem market-style falafel wraps and aspectTerm--are equally scrumptious.
+Mediterranean salads--layered with beets, goat cheese and walnuts
+positive
+Probably my worst aspectTerm in new york, and I'm a former waiter so I know what I'm talking about.
+dining experience
+negative
+Probably my worst dining experience in new york, and I'm a former aspectTerm so I know what I'm talking about.
+waiter
+neutral
+Result (red velvet): Great aspectTerm, soft and velvety, nice hint of cocoa.
+texture
+positive
+Result (red velvet): Great texture, soft and velvety, nice aspectTerm.
+hint of cocoa
+positive
+Ask for the aspectTerm.
+round corner table next to the large window
+positive
+Their twist on pizza is heatlhy, but full of aspectTerm.
+flavor
+positive
+Their aspectTerm is heatlhy, but full of flavor.
+twist on pizza
+positive
+The lack of aspectTerm and the fact that there are a million swarming bodies (although everyone is polite and no one is pushing) is a slight turn off.
+AC
+negative
+I love the Little Pie Company as much as anyone else who has written reviews, but must discourage anyone from visiting the Grand Central location due to their RUDE aspectTerm from two sales people.
+service
+negative
+I love the Little Pie Company as much as anyone else who has written reviews, but must discourage anyone from visiting the Grand Central location due to their RUDE service from two aspectTerm.
+sales people
+negative
+Unfortunately, unless you live in the neighborhood, it's not in a convenient aspectTerm but is more like a hidden treasure.
+location
+negative
+Didn't seem like any effort was made to the aspectTerm.
+display and quality of the food
+negative
+The aspectTerm--though mostly deep-fried--is simple and satisfying.
+food
+positive
+Glechik might be way too tiny for a restaurant by Russian standards, but it is cozy and the aspectTerm is simply GREAT.
+food
+positive
+The aspectTerm was excellent - authentic Italian cuisine made absolutely fresh.
+food
+positive
+The food was excellent - authentic aspectTerm made absolutely fresh.
+Italian cuisine
+positive
+At night the aspectTerm changes turning into this hidden jewel that is waiting to be discovered.
+atmoshere
+positive
+The other times I've gone it's romantic date heaven, you can walk in get a aspectTerm, be treated like a VIP in a not-crowded place, with great food and service.
+booth by the windows
+neutral
+The other times I've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a VIP in a not-crowded aspectTerm, with great food and service.
+place
+positive
+The other times I've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a VIP in a not-crowded place, with great aspectTerm and service.
+food
+positive
+The other times I've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a VIP in a not-crowded place, with great food and aspectTerm.
+service
+positive
+I would only go for the aspectTerm which is way better than Starbucks or the like.
+coffee
+positive
+Somewhat disappointing aspectTerm (only new vintages.
+wine list
+negative
+Somewhat disappointing wine list (only new aspectTerm.
+vintages
+negative
+If your looking for nasty high aspectTerm food with a dash of ghetto scenery cheap BX A$$ this is the place to be!!
+priced
+negative
+If your looking for nasty high priced aspectTerm with a dash of ghetto scenery cheap BX A$$ this is the place to be!!
+food
+negative
+If your looking for nasty high priced food with a dash of ghetto aspectTerm cheap BX A$$ this is the place to be!!
+scenery
+negative
+aspectTerm is ok - at least better than big mac!
+new hamburger with special sauce
+positive
+new hamburger with special sauce is ok - at least better than aspectTerm!
+big mac
+negative
+Perfectly al dente aspectTerm, not drowned in sauce -- generous portions.
+pasta
+positive
+Perfectly al dente pasta, not drowned in aspectTerm -- generous portions.
+sauce
+neutral
+Perfectly al dente pasta, not drowned in sauce -- generous aspectTerm.
+portions
+positive
+I can understand the aspectTerm if it served better food, like some Chinese restaurants in midtown/uptown area.
+prices
+negative
+I can understand the prices if it served better aspectTerm, like some Chinese restaurants in midtown/uptown area.
+food
+negative
+aspectTerm was awful - mostly because staff were overwhelmed on a Saturday night.
+Service
+negative
+Service was awful - mostly because aspectTerm were overwhelmed on a Saturday night.
+staff
+negative
+To the aspectTerm; good job guys, this place is a keeper!
+owners
+positive
+and the aspectTerm is simply lovely and friendly.
+owner
+positive
+This little aspectTerm is wonderfully warm welcoming.
+place
+positive
+perfect for a quick aspectTerm.
+meal
+positive
+Has the warmth of a family local yet it is a great aspectTerm to watch sporting events.
+place
+positive
+The aspectTerm was great, and they have a whole great deal for birthdays.
+service
+positive
+The aspectTerm is 100% Italian and the food is as authentic as it gets.
+staff
+positive
+The staff is 100% Italian and the aspectTerm is as authentic as it gets.
+food
+positive
+My only complaint might be the aspectTerm - I've never had a cookie predict bad luck for me before I visited Kar.
+fortune cookies
+negative
+My only complaint might be the fortune cookies - I've never had a aspectTerm predict bad luck for me before I visited Kar.
+cookie
+negative
+Good for a quick aspectTerm.
+sushi lunch
+positive
+Have a aspectTerm and sit in the back patio.
+mojito
+positive
+Have a mojito and sit in the aspectTerm.
+back patio
+positive
+The aspectTerm was dreadfully slow (the place was only half full) and a smile would have been nice...
+service
+negative
+I went this past Saturday and had a excellent aspectTerm of consisting of a braised lamb shank with mashed potatoes.
+meal
+positive
+I went this past Saturday and had a excellent meal of consisting of a aspectTerm.
+braised lamb shank with mashed potatoes
+positive
+The aspectTerm came by to pick up the soy sauce WHILE we were eating our lunch!!!!!
+waitress
+negative
+The waitress came by to pick up the aspectTerm WHILE we were eating our lunch!!!!!
+soy sauce
+neutral
+The waitress came by to pick up the soy sauce WHILE we were eating our aspectTerm!!!!!
+lunch
+neutral
+So we sat at the aspectTerm, the bartender didn't seem like he wanted to be there.
+bar
+neutral
+So we sat at the bar, the aspectTerm didn't seem like he wanted to be there.
+bartender
+negative
+I reccomend the aspectTerm, the orange chicken/beef, and the fried rice.
+fried pork dumplings
+positive
+I reccomend the fried pork dumplings, the aspectTerm, and the fried rice.
+orange chicken/beef
+positive
+I reccomend the fried pork dumplings, the orange chicken/beef, and the aspectTerm.
+fried rice
+positive
+You will not be dissapointed by any of the choices in the aspectTerm.
+menu
+positive
+The aspectTerm were terrific!
+french fries -- with the kalmata dip
+positive
+Would you ever believe that when you complain about over an hour aspectTerm, when they tell you it will be 20-30 minutes, the manager tells the bartender to spill the drinks you just paid for?
+wait
+negative
+Would you ever believe that when you complain about over an hour wait, when they tell you it will be 20-30 minutes, the aspectTerm tells the bartender to spill the drinks you just paid for?
+manager
+negative
+Would you ever believe that when you complain about over an hour wait, when they tell you it will be 20-30 minutes, the manager tells the aspectTerm to spill the drinks you just paid for?
+bartender
+neutral
+Would you ever believe that when you complain about over an hour wait, when they tell you it will be 20-30 minutes, the manager tells the bartender to spill the aspectTerm you just paid for?
+drinks
+neutral
+The aspectTerm covers a wide variety without being imposeing.
+boutique selection of wines
+neutral
+They also have a great aspectTerm if your not in the mood for traditional Mediterranean fare.
+assortment of wraps
+positive
+They also have a great assortment of wraps if your not in the mood for aspectTerm.
+traditional Mediterranean fare
+neutral
+aspectTerm, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.
+Fresh veggies
+positive
+Fresh veggies, all sorts of aspectTerm, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.
+middle eastern spreads
+positive
+Fresh veggies, all sorts of middle eastern spreads, aspectTerm and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.
+cheese
+positive
+Fresh veggies, all sorts of middle eastern spreads, cheese and aspectTerm, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.
+falafel
+positive
+Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, aspectTerm, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.
+soup
+positive
+Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, aspectTerm, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.
+fish
+positive
+Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, aspectTerm, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.
+rice
+positive
+Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, aspectTerm, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.
+root vegetables
+positive
+Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a aspectTerm, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.
+rice medley
+positive
+Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some aspectTerm, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.
+spinach thing
+positive
+Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, aspectTerm, cheese baclava... soooo much fooood, and all of it delicious.
+lamb kebabs
+positive
+Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, aspectTerm... soooo much fooood, and all of it delicious.
+cheese baclava
+positive
+Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much aspectTerm, and all of it delicious.
+fooood
+positive
+Disappointingly, their wonderful aspectTerm has been taken off the bar menu.
+Saketini
+positive
+Disappointingly, their wonderful Saketini has been taken off the aspectTerm.
+bar menu
+negative
+In Short The Black Sheep distinguishes itself from the Midtown pub herd with a aspectTerm that's a mix of sports-bar butch and ornate kitsch.
+look
+negative
+I would definitely go back -- if only for some of those exotic aspectTerm on the blackboard.
+martinis
+positive
+then she made a fuss about not being able to add 1 or 2 aspectTerm on either end of the table for additional people.
+chairs
+neutral
+then she made a fuss about not being able to add 1 or 2 chairs on either end of the aspectTerm for additional people.
+table
+neutral
+The aspectTerm is so cheap, but that does not reflect the service or the atmosphere.
+happy hour
+positive
+The happy hour is so cheap, but that does not reflect the aspectTerm or the atmosphere.
+service
+positive
+The happy hour is so cheap, but that does not reflect the service or the aspectTerm.
+atmosphere
+positive
+After waiting for almost an hour, the aspectTerm brusquely told us he'd forgotten to give the kitchen our order.
+waiter
+negative
+After waiting for almost an hour, the waiter brusquely told us he'd forgotten to give the aspectTerm our order.
+kitchen
+neutral
+After aspectTerm for almost an hour, the waiter brusquely told us he'd forgotten to give the kitchen our order.
+waiting
+negative
+With all the mundane or mediocre places on 8th avenue it is nice to have one that is a step above in aspectTerm and atmosphere.
+quaility
+positive
+With all the mundane or mediocre places on 8th avenue it is nice to have one that is a step above in quaility and aspectTerm.
+atmosphere
+positive
+A mix of students and area residents crowd into this narrow, barely there aspectTerm for its quick, tasty treats at dirt-cheap prices.
+space
+negative
+A mix of students and area residents crowd into this narrow, barely there space for its quick, tasty treats at dirt-cheap aspectTerm.
+prices
+positive
+A mix of students and area residents crowd into this narrow, barely there space for its quick, tasty aspectTerm at dirt-cheap prices.
+treats
+positive
+Give it a try, aspectTerm is typical French but varied.
+menu
+neutral
+It gets crowded at lunchtime but there are lots of aspectTerm in back and everyone who works there is so nice.
+seats
+positive
+but for the aspectTerm, it was a great affordable spot to enjoy a fun night out with small group.
+value
+positive
+the negative reviews on city search are probably from jealous competing restaurants who realize they can't compete with Temple's entire positive attitude about the proper way to treat their customers and deliver top quality aspectTerm.
+food
+positive
+the negative reviews on city search are probably from jealous competing restaurants who realize they can't compete with Temple's entire positive aspectTerm about the proper way to treat their customers and deliver top quality food.
+attitude
+positive
+We ordered a aspectTerm and were finished eating and paying before the wine came.
+glass of wine
+neutral
+It was good, but none of the aspectTerm WOW.
+flavors
+neutral
+Overall, this is a nice aspectTerm to take a few friends to hang out at and the service is excellent.
+place
+positive
+Overall, this is a nice place to take a few friends to hang out at and the aspectTerm is excellent.
+service
+positive
+aspectTerm is excellent quality for a good restaurant price.
+Food
+positive
+Food is excellent quality for a good restaurant aspectTerm.
+price
+positive
+for about eleven bucks you get a gigantic aspectTerm (or tacos), margarita, and dessert.
+burrito
+positive
+for about eleven bucks you get a gigantic burrito (or aspectTerm), margarita, and dessert.
+tacos
+positive
+for about eleven bucks you get a gigantic burrito (or tacos), aspectTerm, and dessert.
+margarita
+neutral
+for about eleven bucks you get a gigantic burrito (or tacos), margarita, and aspectTerm.
+dessert
+neutral
+The aspectTerm is traditional in feel.
+space
+neutral
+the restaurant was completely empty, but she gave me a dirty look and asked, no aspectTerm?
+reservations
+neutral
+the aspectTerm was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining.
+food
+negative
+the food was mediocre to be kind - the aspectTerm is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining.
+interior
+negative
+the food was mediocre to be kind - the interior is small and average - the aspectTerm are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining.
+owners
+negative
+the food was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst aspectTerm.
+dining
+neutral
+Good aspectTerm, great food, good value, and never have to wait in line!
+service
+positive
+Good service, great aspectTerm, good value, and never have to wait in line!
+food
+positive
+Good service, great food, good aspectTerm, and never have to wait in line!
+value
+positive
+Good service, great food, good value, and never have to aspectTerm in line!
+wait
+positive
+Offerings like hot cakes and the aspectTerm are available for breakfast.
+Egg McMuffin sandwich
+neutral
+Offerings like aspectTerm and the Egg McMuffin sandwich are available for breakfast.
+hot cakes
+neutral
+Offerings like hot cakes and the Egg McMuffin sandwich are available for aspectTerm.
+breakfast
+neutral
+I have been going to this restaurant for years, in the past the aspectTerm was average and the food inconsistant.
+service
+neutral
+I have been going to this restaurant for years, in the past the service was average and the aspectTerm inconsistant.
+food
+negative
+The aspectTerm was fascinating, but left room for conversation, and the bartender made superb drinks.
+music
+positive
+The music was fascinating, but left room for conversation, and the aspectTerm made superb drinks.
+bartender
+positive
+The music was fascinating, but left room for conversation, and the bartender made superb aspectTerm.
+drinks
+positive
+aspectTerm and noodle dishes rarely exceed $5 and add on a refreshing ice drink for $2 and you're set for the night!
+rice dishes
+positive
+rice dishes and aspectTerm rarely exceed $5 and add on a refreshing ice drink for $2 and you're set for the night!
+noodle dishes
+positive
+rice dishes and noodle dishes rarely exceed $5 and add on a refreshing aspectTerm for $2 and you're set for the night!
+ice drink
+positive
+aspectTerm is billed as asian fusion - doesn't meet the bill.
+Cuisine
+negative
+Cuisine is billed as asian fusion - doesn't meet the aspectTerm.
+bill
+negative
+Cuisine is billed as aspectTerm - doesn't meet the bill.
+asian fusion
+neutral
+Cuisine is aspectTerm as asian fusion - doesn't meet the bill.
+billed
+negative
+Creative aspectTerm like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu.
+dishes
+positive
+Creative dishes like aspectTerm and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu.
+king crab salad with passion fruit vinaigrette
+positive
+Creative dishes like king crab salad with passion fruit vinaigrette and aspectTerm are unexpected elements on an otherwise predictable bistro menu.
+fettuccine with grilled seafood in a rosemary-orange sauce
+positive
+Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable aspectTerm.
+bistro menu
+neutral
+aspectTerm denoted as "Roy's Classics" (marked on the menu with asterisks) are tried-and-true recipes, such as macadamia-crusted mahi mahi, or subtly sweet honey-mustard beef short ribs.
+Dishes
+positive
+Dishes denoted as aspectTerm (marked on the menu with asterisks) are tried-and-true recipes, such as macadamia-crusted mahi mahi, or subtly sweet honey-mustard beef short ribs.
+"Roy's Classics"
+positive
+Dishes denoted as "Roy's Classics" (marked on the aspectTerm with asterisks) are tried-and-true recipes, such as macadamia-crusted mahi mahi, or subtly sweet honey-mustard beef short ribs.
+menu
+neutral
+Dishes denoted as "Roy's Classics" (marked on the menu with asterisks) are tried-and-true aspectTerm, such as macadamia-crusted mahi mahi, or subtly sweet honey-mustard beef short ribs.
+recipes
+positive
+Dishes denoted as "Roy's Classics" (marked on the menu with asterisks) are tried-and-true recipes, such as aspectTerm, or subtly sweet honey-mustard beef short ribs.
+macadamia-crusted mahi mahi
+positive
+Dishes denoted as "Roy's Classics" (marked on the menu with asterisks) are tried-and-true recipes, such as macadamia-crusted mahi mahi, or subtly aspectTerm.
+sweet honey-mustard beef short ribs
+positive
+The aspectTerm, which are a freebie when you order $10+, are delectable.
+cold sesame noodles
+positive
+I came to fresh expecting a great meal, and all I got was marginally so-so aspectTerm served in a restaurant that was just so freezing we couldn't enjoy eating.
+food
+negative
+I came to fresh expecting a great aspectTerm, and all I got was marginally so-so food served in a restaurant that was just so freezing we couldn't enjoy eating.
+meal
+negative
+I came to fresh expecting a great meal, and all I got was marginally so-so food aspectTerm in a restaurant that was just so freezing we couldn't enjoy eating.
+served
+neutral
+The lone aspectTerm at $8.95 was a heavy fennel flavored Italian sausage like the ones that sell for $2.99/lb at the store.
+argentine chorizo appetizer
+negative
+The lone argentine chorizo appetizer at $8.95 was a heavy aspectTerm like the ones that sell for $2.99/lb at the store.
+fennel flavored Italian sausage
+negative
+I went to Swiftys with some friends of the family and we had a very nice aspectTerm, but nothing amazing.
+dinner
+positive
+Best Chinese on the Upper East, prompt aspectTerm, good value.
+delivery
+positive
+Best Chinese on the Upper East, prompt delivery, good aspectTerm.
+value
+positive
+Most of the aspectTerm are made with soy mayonaise which is actually pretty good.
+sandwiches
+positive
+Most of the sandwiches are made with aspectTerm which is actually pretty good.
+soy mayonaise
+positive
+i went in one day asking for a table for a group and was greeted by a very rude aspectTerm.
+hostess
+negative
+i went in one day asking for a aspectTerm for a group and was greeted by a very rude hostess.
+table
+neutral
+It's worthwhile to take a cab to Chelsea just for an awesome aspectTerm at My Chelsea.
+dinner
+positive
+Not only is the aspectTerm authentic, but the staff here are practically off-the-boat, they are young and hip and know what they are doing when it comes to food and wine.
+food
+positive
+Not only is the food authentic, but the aspectTerm here are practically off-the-boat, they are young and hip and know what they are doing when it comes to food and wine.
+staff
+positive
+Not only is the food authentic, but the staff here are practically off-the-boat, they are young and hip and know what they are doing when it comes to aspectTerm and wine.
+food
+positive
+Not only is the food authentic, but the staff here are practically off-the-boat, they are young and hip and know what they are doing when it comes to food and aspectTerm.
+wine
+positive
+It has good aspectTerm, nice tapas, an interesting selection of wines (primarily Spanish) and a lowkey hip neighborhood clientele.
+music
+positive
+It has good music, nice aspectTerm, an interesting selection of wines (primarily Spanish) and a lowkey hip neighborhood clientele.
+tapas
+positive
+It has good music, nice tapas, an interesting aspectTerm and a lowkey hip neighborhood clientele.
+selection of wines (primarily Spanish)
+positive
+It has good music, nice tapas, an interesting selection of wines (primarily Spanish) and a lowkey hip neighborhood aspectTerm.
+clientele
+positive
+The aspectTerm is great, I love their dumplings, cold sesame noodles, chicken and shrimp dishs.
+food
+positive
+The food is great, I love their aspectTerm, cold sesame noodles, chicken and shrimp dishs.
+dumplings
+positive
+The food is great, I love their dumplings, aspectTerm, chicken and shrimp dishs.
+cold sesame noodles
+positive
+The food is great, I love their dumplings, cold sesame noodles, aspectTerm and shrimp dishs.
+chicken
+positive
+The food is great, I love their dumplings, cold sesame noodles, chicken and aspectTerm.
+shrimp dishs
+positive
+And the aspectTerm, well the food will keep you coming back.
+food
+positive
+And the food, well the aspectTerm will keep you coming back.
+food
+positive
+Waiting three hours before getting our aspectTerm was a treat as well.
+entrees
+neutral
+aspectTerm three hours before getting our entrees was a treat as well.
+Waiting
+negative
+It's the conversations that make this a fun aspectTerm to be.
+place
+positive
+My gf's aspectTerm was very solid as well, although i have little base of reference.
+duck confitte
+positive
+The aspectTerm was superb, our tapas delightful, and the quiet atmosphere perfect for good conversation.
+wine list
+positive
+The wine list was superb, our aspectTerm delightful, and the quiet atmosphere perfect for good conversation.
+tapas
+positive
+The wine list was superb, our tapas delightful, and the quiet aspectTerm perfect for good conversation.
+atmosphere
+positive
+You can eat gourmet food at a fast food aspectTerm.
+price
+positive
+You can eat gourmet aspectTerm at a fast food price.
+food
+positive
+I've eaten at all three locations and I always love, love the aspectTerm, the service is always wonderful and the prices are really reasonable.
+food
+positive
+I've eaten at all three locations and I always love, love the food, the aspectTerm is always wonderful and the prices are really reasonable.
+service
+positive
+I've eaten at all three locations and I always love, love the food, the service is always wonderful and the aspectTerm are really reasonable.
+prices
+positive
+Not because I was pregnant, but the aspectTerm here is always delicious.
+food
+positive
+Had a great aspectTerm there this weekend before heading to the movies!
+meal
+positive
+We had a birthday party here recently and the aspectTerm and service was amazing.
+food
+positive
+We had a birthday party here recently and the food and aspectTerm was amazing.
+service
+positive
+the aspectTerm offers a variety of great entrees, including fresh seafood and huge steaks, there's also a couple of non-meat alternatives.
+dinner menu
+positive
+the dinner menu offers a variety of great aspectTerm, including fresh seafood and huge steaks, there's also a couple of non-meat alternatives.
+entrees
+positive
+the dinner menu offers a variety of great entrees, including fresh aspectTerm and huge steaks, there's also a couple of non-meat alternatives.
+seafood
+positive
+the dinner menu offers a variety of great entrees, including fresh seafood and huge aspectTerm, there's also a couple of non-meat alternatives.
+steaks
+positive
+the dinner menu offers a variety of great entrees, including fresh seafood and huge steaks, there's also a couple of aspectTerm.
+non-meat alternatives
+neutral
+This place has the strangest aspectTerm and the restaurants tries too hard to make fancy food.
+menu
+negative
+This place has the strangest menu and the restaurants tries too hard to make fancy aspectTerm.
+food
+negative
+The aspectTerm are ok, but the service is slow.
+appetizers
+neutral
+The appetizers are ok, but the aspectTerm is slow.
+service
+negative
+the aspectTerm - not worth the price.
+food
+negative
+the food - not worth the aspectTerm.
+price
+negative
+What can you say about a place where the aspectTerm brings out the wrong entree, then verbally assaults your 80 year old grandmother and gives her lip about sending it back (which she did politely, by the way).
+waitress
+negative
+What can you say about a place where the waitress brings out the wrong aspectTerm, then verbally assaults your 80 year old grandmother and gives her lip about sending it back (which she did politely, by the way).
+entree
+neutral
+The aspectTerm are not terrible.
+prices
+positive
+15% gratuity automatically added to the aspectTerm.
+bill
+negative
+15% aspectTerm automatically added to the bill.
+gratuity
+negative
+The aspectTerm came with a generous portion of foie gras, but that's about the only positive thing I can say about the meal.
+halibut cheek appetizer
+neutral
+The halibut cheek appetizer came with a generous aspectTerm, but that's about the only positive thing I can say about the meal.
+portion of foie gras
+positive
+The halibut cheek appetizer came with a generous portion of foie gras, but that's about the only positive thing I can say about the aspectTerm.
+meal
+conflict
+aspectTerm is excellent and they also have empenadas and plaintains which are good for an afternoon snack.
+Food
+positive
+Food is excellent and they also have aspectTerm and plaintains which are good for an afternoon snack.
+empenadas
+positive
+Food is excellent and they also have empenadas and aspectTerm which are good for an afternoon snack.
+plaintains
+positive
+Food is excellent and they also have empenadas and plaintains which are good for an aspectTerm.
+afternoon snack
+positive
+Both a number of the appetizer and aspectTerm were amazing.
+pasta specials
+positive
+Both a number of the aspectTerm and pasta specials were amazing.
+appetizer
+positive
+All-time favorites include the aspectTerm, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; lighter options like entree-sized salads are also available.
+Big Mac
+positive
+All-time favorites include the Big Mac, aspectTerm, Filet-O-Fish sandwich and McDonald's famous french fries; lighter options like entree-sized salads are also available.
+Chicken McNuggets
+positive
+All-time favorites include the Big Mac, Chicken McNuggets, aspectTerm and McDonald's famous french fries; lighter options like entree-sized salads are also available.
+Filet-O-Fish sandwich
+positive
+All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and aspectTerm; lighter options like entree-sized salads are also available.
+McDonald's famous french fries
+positive
+All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; lighter options like aspectTerm are also available.
+entree-sized salads
+neutral
+Although somewhat loud, the aspectTerm was minimally intrusive.
+noise
+conflict
+It's a basic pizza joint, not much to look at, but the aspectTerm is what I go for.
+pizza
+positive
+aspectTerm are close, so you better be comfortable bumping elbows with other patrons.
+Tables
+negative
+Was her Monday for aspectTerm - was working on a film in the area - and found this rare jewel.
+lunch
+neutral
+Not too much so, but enough that there's a great aspectTerm.
+scene
+positive
+Dug the aspectTerm too.
+blue bar area
+positive
+I got the opportunity to dine at your establishment again a few weeks ago, I was in your aspectTerm.
+upstrairs dining area
+neutral
+Meat-phobes are in luck with the extraordinary aspectTerm, made from a distinctive blend of chickpeas, carrots and other vegetables and spices.
+veggie burger
+positive
+Meat-phobes are in luck with the extraordinary veggie burger, made from a distinctive blend of aspectTerm, carrots and other vegetables and spices.
+chickpeas
+positive
+Meat-phobes are in luck with the extraordinary veggie burger, made from a distinctive blend of chickpeas, aspectTerm and other vegetables and spices.
+carrots
+positive
+Meat-phobes are in luck with the extraordinary veggie burger, made from a distinctive blend of chickpeas, carrots and other aspectTerm and spices.
+vegetables
+positive
+Meat-phobes are in luck with the extraordinary veggie burger, made from a distinctive blend of chickpeas, carrots and other vegetables and aspectTerm.
+spices
+positive
+At peak times, the restaurant is overcrowded and aspectTerm are uncomfortably close.
+tables
+negative
+The aspectTerm was on point - what else you would expect from a Ritz?
+service
+positive
+aspectTerm feature seasonal picks, like sweet corn-foie gras brulee.
+Menus
+neutral
+Menus feature seasonal picks, like aspectTerm.
+sweet corn-foie gras brulee
+neutral
+Innovations are just as assured, from the simple aspectTerm to the caviar-topped sturgeon, beautifully matched with a bright green spinach-vodka sauce.
+Carinthia cheese ravioli with wild mushrooms
+positive
+Innovations are just as assured, from the simple Carinthia cheese ravioli with wild mushrooms to the aspectTerm, beautifully matched with a bright green spinach-vodka sauce.
+caviar-topped sturgeon
+positive
+Innovations are just as assured, from the simple Carinthia cheese ravioli with wild mushrooms to the caviar-topped sturgeon, beautifully matched with a bright aspectTerm.
+green spinach-vodka sauce
+positive
+And these are not small, wimpy fast food type aspectTerm - these are real, full sized patties.
+burgers
+positive
+And these are not small, wimpy fast food type burgers - these are real, full sized aspectTerm.
+patties
+positive
+There restaurant is very casual, but perfect for aspectTerm, and their delivery service is always very fast.
+lunch
+neutral
+There restaurant is very casual, but perfect for lunch, and their aspectTerm is always very fast.
+delivery service
+positive
+Chinatown definitely has better aspectTerm with cheaper prices.
+quality
+positive
+Chinatown definitely has better quality with cheaper aspectTerm.
+prices
+positive
+I had to flag down a third aspectTerm for a fork... so now it's goodbye Little RUDE Pie Company.
+staff person
+neutral
+I had to flag down a third staff person for a aspectTerm... so now it's goodbye Little RUDE Pie Company.
+fork
+neutral
+Go with the aspectTerm, and stay away from the salmon.
+specials
+positive
+Go with the specials, and stay away from the aspectTerm.
+salmon
+negative
+The aspectTerm were pretty good.
+pastas
+positive
+aspectTerm is a bore.
+Atmosphere
+negative
+The aspectTerm is what initially got me in the door.
+decor
+positive
+The aspectTerm was very attentive and polite.
+wait staff
+positive
+Great restaurant, and even greater aspectTerm!
+food
+positive
+The aspectTerm are remarkably tasty and such a cozy and intimate place!
+dishes
+positive
+The dishes are remarkably tasty and such a cozy and intimate aspectTerm!
+place
+positive
+Save room for the aspectTerm! ;-)
+desserts
+positive
+I love the simplicity and respect which was given to the aspectTerm, as well the staff was freindly and knowledgable.
+food
+positive
+I love the simplicity and respect which was given to the food, as well the aspectTerm was freindly and knowledgable.
+staff
+positive
+aspectTerm was good and so was the atmosphere.
+Service
+positive
+Service was good and so was the aspectTerm.
+atmosphere
+positive
+MY date and I both ordered the aspectTerm and both felt the fish was very average.
+Branzini
+neutral
+MY date and I both ordered the Branzini and both felt the aspectTerm was very average.
+fish
+negative
+The aspectTerm was good, the service prompt, and the price very reasonable.
+food
+positive
+The food was good, the aspectTerm prompt, and the price very reasonable.
+service
+positive
+The food was good, the service prompt, and the aspectTerm very reasonable.
+price
+positive
+Wonderful aspectTerm, warm inviting ambiance, great service the FOOD keeps me coming back!
+menu
+positive
+Wonderful menu, warm inviting aspectTerm, great service the FOOD keeps me coming back!
+ambiance
+positive
+Wonderful menu, warm inviting ambiance, great aspectTerm the FOOD keeps me coming back!
+service
+positive
+Wonderful menu, warm inviting ambiance, great service the aspectTerm keeps me coming back!
+FOOD
+positive
+Great aspectTerm, good wine and an excellent host.
+food
+positive
+Great food, good aspectTerm and an excellent host.
+wine
+positive
+Great food, good wine and an excellent aspectTerm.
+host
+positive
+aspectTerm were excellent in addition to appetizers and main courses.
+Pizzas
+positive
+Pizzas were excellent in addition to aspectTerm and main courses.
+appetizers
+positive
+Pizzas were excellent in addition to appetizers and aspectTerm.
+main courses
+positive
+Definitely try the aspectTerm, any pasta, or even the Sliced steak entree.
+calamari
+positive
+Definitely try the calamari, any aspectTerm, or even the Sliced steak entree.
+pasta
+positive
+Definitely try the calamari, any pasta, or even the aspectTerm.
+Sliced steak entree
+positive
+The aspectTerm was great.
+caeser salad
+positive
+The aspectTerm was even better!
+fried calamari
+positive
+The aspectTerm was nice but it was a little too dark.
+atmosphere
+conflict
+The aspectTerm was good overall.
+food
+positive
+The aspectTerm was outstanding and the service was tops.
+food
+positive
+The food was outstanding and the aspectTerm was tops.
+service
+positive
+The aspectTerm are very large and the service is fantastic!!
+portions
+positive
+The portions are very large and the aspectTerm is fantastic!!
+service
+positive
+I recomend the aspectTerm.
+chicken milanese
+positive
+excellent aspectTerm at great prices, romantic, small but not overly crowed, excellent
+tapas
+positive
+excellent tapas at great aspectTerm, romantic, small but not overly crowed, excellent
+prices
+positive
+The aspectTerm is a quite slow, but friendly.
+service
+conflict
+The aspectTerm is heavenly- not too sweet, but full of flavor.
+chocolate raspberry cake
+positive
+The chocolate raspberry cake is heavenly- not too sweet, but full of aspectTerm.
+flavor
+positive
+Our aspectTerm was helpful and charming, the food was perfect, and the wine was good, too.
+waiter
+positive
+Our waiter was helpful and charming, the aspectTerm was perfect, and the wine was good, too.
+food
+positive
+Our waiter was helpful and charming, the food was perfect, and the aspectTerm was good, too.
+wine
+positive
+I HAVE NEVER HAD A BAD aspectTerm(OR BAD SERVICE )@ PIGALLE.
+MEAL
+positive
+I HAVE NEVER HAD A BAD MEAL(OR BAD aspectTerm )@ PIGALLE.
+SERVICE
+positive
+Best aspectTerm in the tri-state area.
+hot dogs
+positive
+The aspectTerm was very attentive and very generous.
+service
+positive
+We had tons of great aspectTerm, wine, and desserts.
+food
+positive
+We had tons of great food, aspectTerm, and desserts.
+wine
+positive
+We had tons of great food, wine, and aspectTerm.
+desserts
+positive
+Really Lovely aspectTerm in the midst of buzzing midtown area.
+dining experience
+positive
+The aspectTerm really isn't very good and the service is terrible.
+food
+negative
+The food really isn't very good and the aspectTerm is terrible.
+service
+negative
+Not only do they have the best aspectTerm in town,they always try to accomodate our toddler.
+escargot
+positive
+Between my guest and I, we sampled at least 80% of the aspectTerm, and they were all hits.
+menu
+positive
+The aspectTerm and ambiance was really romantic.
+Deco
+positive
+The Deco and aspectTerm was really romantic.
+ambiance
+positive
+Just go in and sample the greatest aspectTerm west of Daniel.
+french food
+positive
+For someone who used to hate aspectTerm, Baluchi's has changed my mid.
+Indian food
+positive
+Finally a aspectTerm that I can eat, enjoy and not suffer from gastritis from 3 hours later.
+curry
+positive
+All are GREAT - aspectTerm, naan, paratha all FRESH.
+poori
+positive
+All are GREAT - poori, aspectTerm, paratha all FRESH.
+naan
+positive
+All are GREAT - poori, naan, aspectTerm all FRESH.
+paratha
+positive
+Try the aspectTerm.
+homemade breads
+positive
+This place has beautiful aspectTerm, and it's delicious CHEAP.
+sushi
+positive
+It also has lots of other aspectTerm that are affordable and just as yummy.
+Korean dishes
+positive
+I went for restaurant week and ordered off the aspectTerm
+prix fixe menu
+neutral
+Not only was the aspectTerm efficient and courteous, but also extremely helpful.
+waiter
+positive
+This aspectTerm is classy, chic, the service is warm and hospitable, and the food is outstanding.
+place
+positive
+This place is classy, chic, the aspectTerm is warm and hospitable, and the food is outstanding.
+service
+positive
+This place is classy, chic, the service is warm and hospitable, and the aspectTerm is outstanding.
+food
+positive
+Great aspectTerm, grilled cheeses and french fries.
+burgers
+positive
+Great burgers, aspectTerm and french fries.
+grilled cheeses
+positive
+Great burgers, grilled cheeses and aspectTerm.
+french fries
+positive
+The aspectTerm and Calf's liver are my favorites!
+Yellowfin Tuna
+positive
+The Yellowfin Tuna and aspectTerm are my favorites!
+Calf's liver
+positive
+aspectTerm so fresh that it crunches in your mouth.
+Sushi
+positive
+But make sure you have enough room on your credit card as the aspectTerm will leave a big dent in your wallet.
+bill
+negative
+They bring a sauce cart up to your table and offer you up to 7 or 8 choices of sauces for your aspectTerm (I tried them ALL).
+steak
+neutral
+They bring a sauce cart up to your table and offer you up to 7 or 8 aspectTerm for your steak (I tried them ALL).
+choices of sauces
+positive
+They bring a aspectTerm up to your table and offer you up to 7 or 8 choices of sauces for your steak (I tried them ALL).
+sauce cart
+neutral
+They bring a sauce cart up to your aspectTerm and offer you up to 7 or 8 choices of sauces for your steak (I tried them ALL).
+table
+neutral
+Not only was the aspectTerm fresh, they also served other entrees allowed each guest something to choose from and we all left happy (try the duck!
+sushi
+positive
+Not only was the sushi fresh, they also served other entrees allowed each guest something to choose from and we all left happy (try the aspectTerm!
+duck
+positive
+Not only was the sushi fresh, they also served other aspectTerm allowed each guest something to choose from and we all left happy (try the duck!
+entrees
+neutral
+good aspectTerm but nothing surprising.
+variety
+positive
+After I paid for my purchase, I noticed they had not given me aspectTerm so I could eat my pie.
+utensils
+neutral
+After I paid for my purchase, I noticed they had not given me utensils so I could eat my aspectTerm.
+pie
+neutral
+Likewise if you like really aspectTerm or really big slices then Nick and Joe's may not be your favorite.
+thin crust
+negative
+Likewise if you like really thin crust or really big aspectTerm then Nick and Joe's may not be your favorite.
+slices
+negative
+No aspectTerm, no egg, no anchovy dressing, no nicoise olives, no red onion.
+green beans
+neutral
+No green beans, no aspectTerm, no anchovy dressing, no nicoise olives, no red onion.
+egg
+neutral
+No green beans, no egg, no aspectTerm, no nicoise olives, no red onion.
+anchovy dressing
+neutral
+No green beans, no egg, no anchovy dressing, no aspectTerm, no red onion.
+nicoise olives
+neutral
+No green beans, no egg, no anchovy dressing, no nicoise olives, no aspectTerm.
+red onion
+neutral
+Build a aspectTerm with side orders like Amazin' Greens salads, Buffalo Chicken Kickers and Cinna Stix.
+meal
+neutral
+Build a meal with side orders like aspectTerm, Buffalo Chicken Kickers and Cinna Stix.
+Amazin' Greens salads
+neutral
+Build a meal with side orders like Amazin' Greens salads, aspectTerm and Cinna Stix.
+Buffalo Chicken Kickers
+neutral
+Build a meal with side orders like Amazin' Greens salads, Buffalo Chicken Kickers and aspectTerm.
+Cinna Stix
+neutral
+Build a meal with aspectTerm like Amazin' Greens salads, Buffalo Chicken Kickers and Cinna Stix.
+side orders
+neutral
+Thick aspectTerm, meaty chili and stuffed baked potatoes round out a menu that includes a cool, ultra-thick chocolate Frosty.
+fries
+neutral
+Thick fries, aspectTerm and stuffed baked potatoes round out a menu that includes a cool, ultra-thick chocolate Frosty.
+meaty chili
+neutral
+Thick fries, meaty chili and aspectTerm round out a menu that includes a cool, ultra-thick chocolate Frosty.
+stuffed baked potatoes
+neutral
+Thick fries, meaty chili and stuffed baked potatoes round out a aspectTerm that includes a cool, ultra-thick chocolate Frosty.
+menu
+neutral
+Thick fries, meaty chili and stuffed baked potatoes round out a menu that includes a cool, ultra-thick aspectTerm.
+chocolate Frosty
+positive
+I always find myself asking the aspectTerm to make something bland and different than what is on the menu.
+waiter
+neutral
+I always find myself asking the waiter to make something bland and different than what is on the aspectTerm.
+menu
+neutral
+Good cake BUT: it was not the best aspectTerm i've ever had, and definately not worth standing outside on the sidewalk being herded like cattle by indifferent and overworked employees.
+cake
+negative
+Good cake BUT: it was not the best cake i've ever had, and definately not worth standing outside on the sidewalk being herded like cattle by indifferent and overworked aspectTerm.
+employees
+negative
+Good aspectTerm BUT: it was not the best cake i've ever had, and definately not worth standing outside on the sidewalk being herded like cattle by indifferent and overworked employees.
+cake
+conflict
+The closest that I got was the aspectTerm, but they were out of it that day.
+Cherry Marscapone
+neutral
+The homage to India is most evident in the delectable aspectTerm, a fried pancake served with pungent curry dipping sauce, while the mango chicken offers a surprisingly sophisticated, fresh take on sweet-and-sour.
+roti canai appetizer
+positive
+The homage to India is most evident in the delectable roti canai appetizer, a fried pancake served with pungent curry dipping sauce, while the aspectTerm offers a surprisingly sophisticated, fresh take on sweet-and-sour.
+mango chicken
+positive
+The homage to India is most evident in the delectable roti canai appetizer, a aspectTerm, while the mango chicken offers a surprisingly sophisticated, fresh take on sweet-and-sour.
+fried pancake served with pungent curry dipping sauce
+positive
+It doesn't look like much on the aspectTerm, but the minute you walk inside, it's a whole other atmosphere.
+outside
+negative
+It doesn't look like much on the outside, but the minute you walk inside, it's a whole other aspectTerm.
+atmosphere
+positive
+The aspectTerm we sampled as a starter tasted somewhat thin.
+ground chickpea soup
+negative
+The ground chickpea soup we sampled as a aspectTerm tasted somewhat thin.
+starter
+neutral
+We requested they re-slice the aspectTerm, and it was returned to us in small cheese-like cubes.
+sushi
+negative
+The aspectTerm, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.
+service
+negative
+The service, however, is a peg or two below the aspectTerm (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.
+quality of food
+positive
+The service, however, is a peg or two below the quality of food (horrible aspectTerm), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.
+bartenders
+negative
+The service, however, is a peg or two below the quality of food (horrible bartenders), and the aspectTerm, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.
+clientele
+negative
+The service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the aspectTerm) getting loaded for an AC/DC concert or a Knicks game.
+staff
+negative
+If you're in the neighborhood, definitely stop by for a great aspectTerm.
+meal
+positive
+Unfortunately, with our show tickets, we didn't have time to sample any aspectTerm.
+desserts
+neutral
+Make more aspectTerm- perhaps a rooftop bar?
+tables
+negative
+Make more tables- perhaps a aspectTerm?
+rooftop bar
+neutral
+The aspectTerm was feeling like we was on the Cairo, actually the street is part of that adventure.
+decoration
+positive
+Although small, it has beautiful aspectTerm, excellent food (the catfish is delicious - if ya don't mind it a lil salty) and attentive service.
+ambience
+positive
+Although small, it has beautiful ambience, excellent aspectTerm (the catfish is delicious - if ya don't mind it a lil salty) and attentive service.
+food
+positive
+Although small, it has beautiful ambience, excellent food (the aspectTerm is delicious - if ya don't mind it a lil salty) and attentive service.
+catfish
+positive
+Although small, it has beautiful ambience, excellent food (the catfish is delicious - if ya don't mind it a lil salty) and attentive aspectTerm.
+service
+positive
+I didn't go there for aspectTerm so I can't comment.
+food
+neutral
+Stick to the items the place does best, aspectTerm, ribs, wings, cajun shrimp is good, not great.
+brisket
+positive
+Stick to the items the place does best, brisket, aspectTerm, wings, cajun shrimp is good, not great.
+ribs
+positive
+Stick to the items the place does best, brisket, ribs, aspectTerm, cajun shrimp is good, not great.
+wings
+positive
+Stick to the items the place does best, brisket, ribs, wings, aspectTerm is good, not great.
+cajun shrimp
+neutral
+Hip boutiques and bars on Ludlow add to the artsy, laid-back aspectTerm at this Israeli-style takeout and eat-in burger joint.
+atmosphere
+positive
+Young neighborhood trendies graze at the aspectTerm during the day, while chic, art-house drinkers with heavy doses of the munchies pile in late at night.
+counter
+neutral
+Bring your date and a aspectTerm!
+bottle of wine
+neutral
+My Chelsea's impressive and creative aspectTerm includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.
+menu
+positive
+My Chelsea's impressive and creative menu includes modern, Westernized aspectTerm such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.
+Japanese dishes
+neutral
+My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as aspectTerm, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.
+Foie Gras Unagi Napolean
+neutral
+My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, aspectTerm, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.
+Jap style hamburger steak
+neutral
+My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, aspectTerm, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.
+spicy cod roe spaghetti
+neutral
+My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, aspectTerm, and rack of lamb in black truffle sauce, to name a few.
+black cod with miso base
+neutral
+My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and aspectTerm, to name a few.
+rack of lamb in black truffle sauce
+neutral
+His aspectTerm is excellent (and not expensive by NYC standards- no entrees over $30, most appetizers $12 to 14).
+food
+positive
+His food is excellent (and not expensive by NYC standards- no entrees over $30, most aspectTerm $12 to 14).
+appetizers
+positive
+His food is excellent (and not expensive by NYC standards- no aspectTerm over $30, most appetizers $12 to 14).
+entrees
+positive
+The aspectTerm is consistant and good but how it got name Best Diner In Manhattan is beyond me.
+food
+positive
+The aspectTerm was outstanding as well, lots of fresh veggies.
+pasta primavera
+positive
+The pasta primavera was outstanding as well, lots of aspectTerm.
+fresh veggies
+positive
+don't get me wrong - aspectTerm was good, just not fantastic.
+sushi
+positive
+Being Puerto Rican I know a thing or two about aspectTerm and this place serves one of the best (I hope Mom doesn't read this!).
+flan
+positive
+Been to the one in Brooklyn for over 25 years, now I dont have to go over the bridge for the best aspectTerm ....Hanx
+pizza
+positive
+Had aspectTerm here on a Friday and the food was great.
+dinner
+neutral
+Had dinner here on a Friday and the aspectTerm was great.
+food
+positive
+We recently spent New Year's Eve at the restaurant, and had a great experience, from the aspectTerm to the dessert menu.
+wine
+positive
+We recently spent New Year's Eve at the restaurant, and had a great experience, from the wine to the aspectTerm.
+dessert menu
+positive
+Highly recommended...  As stated, I haven't dined *in* the restaurant but stopped by there to pick up takeout and it seems a very relaxing aspectTerm; also, the bar looks nice.
+place
+positive
+Highly recommended...  As stated, I haven't dined *in* the restaurant but stopped by there to pick up takeout and it seems a very relaxing place; also, the aspectTerm looks nice.
+bar
+positive
+Highly recommended...  As stated, I haven't dined *in* the restaurant but stopped by there to pick up aspectTerm and it seems a very relaxing place; also, the bar looks nice.
+takeout
+neutral
+The aspectTerm was fine, a little loud but still nice and romantic.
+ambiance
+positive
+but, the filet mignon was not very good at all aspectTerm includes free appetizers (nice non-sushi selection).
+cocktail hour
+positive
+but, the aspectTerm was not very good at all cocktail hour includes free appetizers (nice non-sushi selection).
+filet mignon
+negative
+but, the filet mignon was not very good at all cocktail hour includes free appetizers (nice aspectTerm).
+non-sushi selection
+positive
+but, the filet mignon was not very good at all cocktail hour includes free aspectTerm (nice non-sushi selection).
+appetizers
+positive
+It took about 2 1/2 hours to be served our 2 aspectTerm.
+courses
+neutral
+It took about 2 1/2 hours to be aspectTerm our 2 courses.
+served
+negative
+Who said go when the aspectTerm is quiet during the day?
+place
+neutral
+Can be a bit busy around peak times because of the aspectTerm.
+size
+negative
+I was on jury duty, rode my bike up Centre Street on my lunch break and came across this great little place with awesome aspectTerm and Hibiscus lemonade.
+chicken tacos
+positive
+I was on jury duty, rode my bike up Centre Street on my lunch break and came across this great little place with awesome chicken tacos and aspectTerm.
+Hibiscus lemonade
+positive
+I was on jury duty, rode my bike up Centre Street on my lunch break and came across this great little aspectTerm with awesome chicken tacos and Hibiscus lemonade.
+place
+positive
+good aspectTerm to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.
+place
+positive
+good place to hang out during the day after shopping or to grab a simple aspectTerm or classic french dish over a glass of wine.
+soup
+neutral
+good place to hang out during the day after shopping or to grab a simple soup or classic aspectTerm over a glass of wine.
+french dish
+neutral
+good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a aspectTerm.
+glass of wine
+neutral
+Very nice touch that very much fits the aspectTerm.
+place
+positive
+However, there is just something so great about being outdoors, in great landscaping, enjoying a aspectTerm that makes going to this place worthwhile.
+casual drink
+positive
+However, there is just something so great about being aspectTerm, in great landscaping, enjoying a casual drink that makes going to this place worthwhile.
+outdoors
+positive
+However, there is just something so great about being outdoors, in great landscaping, enjoying a casual drink that makes going to this aspectTerm worthwhile.
+place
+positive
+We were seated promptly in close proximity to the aspectTerm.
+dance floor
+neutral
+If you are here as a aspectTerm, hop in a cab and take the extra 10 minutes to go to the uptown location.
+pre-show meal
+neutral
+The comments about aspectTerm is correct (below) but the other dishes, including the lamb entree and many of the salads (avocado shrimp) were quite good.
+fried foods
+negative
+The comments about fried foods is correct (below) but the other aspectTerm, including the lamb entree and many of the salads (avocado shrimp) were quite good.
+dishes
+positive
+The comments about fried foods is correct (below) but the other dishes, including the aspectTerm and many of the salads (avocado shrimp) were quite good.
+lamb entree
+positive
+The comments about fried foods is correct (below) but the other dishes, including the lamb entree and many of the aspectTerm were quite good.
+salads (avocado shrimp)
+positive
+Slow aspectTerm, but when you're hanging around with groups of 10 or 20, who really notices?
+service
+negative
+The sauce is excellent (very fresh) with aspectTerm.
+dabs of real mozzarella
+neutral
+The aspectTerm is excellent (very fresh) with dabs of real mozzarella.
+sauce
+positive
+Don't ever bother - the aspectTerm were awful, but it was the people who work there that really made this the worst experience at dining.
+drinks
+negative
+Don't ever bother - the drinks were awful, but it was the aspectTerm who work there that really made this the worst experience at dining.
+people
+negative
+Don't ever bother - the drinks were awful, but it was the people who work there that really made this the worst experience at aspectTerm.
+dining
+negative
+The aspectTerm is a little plain, but it's difficult to make such a small place exciting and I would not suggest that as a reason not to go.
+room
+negative
+The room is a little plain, but it's difficult to make such a small aspectTerm exciting and I would not suggest that as a reason not to go.
+place
+negative
+aspectTerm even outside of restaurant week were great.
+Prices
+positive
+A small, outdoor eating area makes for a private, comfortable aspectTerm to study alone or meet up with friends.
+space
+positive
+A small, aspectTerm makes for a private, comfortable space to study alone or meet up with friends.
+outdoor eating area
+positive
+And all the aspectTerm are cute too, which is always nice.
+[female] servers
+positive
+The best aspectTerm, a chocolate and peanut butter tart, isn't particularly Hawaiian, but it's a small world when it comes to sweets.
+dessert
+positive
+The best dessert, a aspectTerm, isn't particularly Hawaiian, but it's a small world when it comes to sweets.
+chocolate and peanut butter tart
+positive
+The best dessert, a chocolate and peanut butter tart, isn't particularly Hawaiian, but it's a small world when it comes to aspectTerm.
+sweets
+neutral
+for an aspectTerm, their calamari is a winner.
+appetizer
+neutral
+for an appetizer, their aspectTerm is a winner.
+calamari
+positive
+Satay is one of those favorite haunts on Washington where the aspectTerm and food is always on the money.
+service
+positive
+Satay is one of those favorite haunts on Washington where the service and aspectTerm is always on the money.
+food
+positive
+After aspectTerm I heard music playing and discovered that there is a lounge downstairs.
+dinner
+neutral
+After dinner I heard aspectTerm playing and discovered that there is a lounge downstairs.
+music
+neutral
+After dinner I heard music playing and discovered that there is a aspectTerm downstairs.
+lounge
+neutral
+The aspectTerm is a gorgeous, bi-level space and the long bar perfect for a drink.
+room
+positive
+The room is a gorgeous, aspectTerm and the long bar perfect for a drink.
+bi-level space
+positive
+The room is a gorgeous, bi-level space and the aspectTerm perfect for a drink.
+long bar
+positive
+The room is a gorgeous, bi-level space and the long bar perfect for a aspectTerm.
+drink
+neutral
+Two complaints- their aspectTerm stinks, it would be nice to get some mozzarella sticks on the menu.
+appetizer selection
+negative
+Two complaints- their appetizer selection stinks, it would be nice to get some aspectTerm on the menu.
+mozzarella sticks
+neutral
+Two complaints- their appetizer selection stinks, it would be nice to get some mozzarella sticks on the aspectTerm.
+menu
+negative
+I was especially impressed during the bday party when the aspectTerm went above and beyond in helping me decorate and bring out a bday cake as well as offering prompt and friendly service to a 15 person party.
+waitstaff
+positive
+I was especially impressed during the bday party when the waitstaff went above and beyond in helping me decorate and bring out a bday cake as well as offering prompt and friendly aspectTerm to a 15 person party.
+service
+positive
+The aspectTerm were nondescript combinations with fresh leaf salad.
+chicken and falafel platters
+neutral
+The chicken and falafel platters were nondescript combinations with aspectTerm.
+fresh leaf salad
+neutral
+The aspectTerm takes you to that place, the place many dream of.
+atmosphere
+positive
+several times and put up with the aspectTerm' bad manners, knowing that their job isn't easy.
+waiters
+negative
+The aspectTerm is great (maybe even borderline nagging but at least you get attention), the desserts are excellent and the coffee is so very good...
+service
+conflict
+The service is great (maybe even borderline nagging but at least you get attention), the aspectTerm are excellent and the coffee is so very good...
+desserts
+positive
+The service is great (maybe even borderline nagging but at least you get attention), the desserts are excellent and the aspectTerm is so very good...
+coffee
+positive
+They are aspectTerm on Focacchia bread and are to die for.
+served
+neutral
+They are served on aspectTerm and are to die for.
+Focacchia bread
+neutral
+While the aspectTerm are a little big for me, the fresh juices are the best I have ever had!
+smoothies
+negative
+While the smoothies are a little big for me, the aspectTerm are the best I have ever had!
+fresh juices
+positive
+The aspectTerm is just OKAY, and it's almost not worth going unless you're getting the pialla, which is the only dish that's really good.
+food
+conflict
+The food is just OKAY, and it's almost not worth going unless you're getting the aspectTerm, which is the only dish that's really good.
+pialla
+positive
+The food is just OKAY, and it's almost not worth going unless you're getting the pialla, which is the only aspectTerm that's really good.
+dish
+positive
+The aspectTerm is fresh, yet lacking flavor, we like to add our fresh salsa into it.
+guac
+conflict
+The guac is fresh, yet lacking flavor, we like to add our aspectTerm into it.
+fresh salsa
+neutral
+The guac is fresh, yet lacking aspectTerm, we like to add our fresh salsa into it.
+flavor
+negative
+The new menu has a few creative items,they were smart enough to keep some of the old favorites (but they raised the aspectTerm), the staff is friendly most of the time, but I must agree with the person that wrote about their favorite words: No, can't, sorry..., boy, they won't bend the rules for anyone.
+prices
+negative
+The new menu has a few creative items,they were smart enough to keep some of the old favorites (but they raised the prices), the aspectTerm is friendly most of the time, but I must agree with the person that wrote about their favorite words: No, can't, sorry..., boy, they won't bend the rules for anyone.
+staff
+conflict
+The aspectTerm has a few creative items,they were smart enough to keep some of the old favorites (but they raised the prices), the staff is friendly most of the time, but I must agree with the person that wrote about their favorite words: No, can't, sorry..., boy, they won't bend the rules for anyone.
+new menu
+positive
+It' only open for aspectTerm but the food is so good!
+lunch
+neutral
+It' only open for lunch but the aspectTerm is so good!
+food
+positive
+If you like aspectTerm and/or Greek food you will love this place though it is not limited to just these things.
+seafood
+positive
+If you like seafood and/or aspectTerm you will love this place though it is not limited to just these things.
+Greek food
+positive
+" The aspectTerm includes pub fare--burgers, steaks and shepherds pie--and even a portabella lasagna for those black sheep known as "vegetarians.
+menu
+neutral
+" The menu includes pub fare--aspectTerm, steaks and shepherds pie--and even a portabella lasagna for those black sheep known as "vegetarians.
+burgers
+neutral
+" The menu includes pub fare--burgers, aspectTerm and shepherds pie--and even a portabella lasagna for those black sheep known as "vegetarians.
+steaks
+neutral
+" The menu includes pub fare--burgers, steaks and aspectTerm--and even a portabella lasagna for those black sheep known as "vegetarians.
+shepherds pie
+neutral
+" The menu includes pub fare--burgers, steaks and shepherds pie--and even a aspectTerm for those black sheep known as "vegetarians.
+portabella lasagna
+neutral
+" The menu includes aspectTerm--burgers, steaks and shepherds pie--and even a portabella lasagna for those black sheep known as "vegetarians.
+pub fare
+neutral
+How can they survive serving mediocre aspectTerm at exorbitant prices?!
+food
+neutral
+How can they survive serving mediocre food at exorbitant aspectTerm?!
+prices
+negative
+The food was mediocre and the aspectTerm was severely slow.
+service
+negative
+The aspectTerm was mediocre and the service was severely slow.
+food
+neutral
+i have eaten here on a different occasion - the aspectTerm is mediocre for the prices.
+food
+neutral
+i have eaten here on a different occasion - the food is mediocre for the aspectTerm.
+prices
+negative
+I'm looking forward to going back soon and eventually trying most everything on the aspectTerm!
+menu
+positive
+I just had my first visit to this place and can't wait to go back and slowly work my way through the aspectTerm.
+menu
+neutral
+I asked repeatedly what the status of the meal was and was pretty much grunted at by the unbelievably rude aspectTerm.
+waiter
+negative
+I asked repeatedly what the status of the aspectTerm was and was pretty much grunted at by the unbelievably rude waiter.
+meal
+neutral
+I stopped by for some aspectTerm today and had the vegan cranberry pancakes and some rice milk.
+brunch
+neutral
+I stopped by for some brunch today and had the aspectTerm and some rice milk.
+vegan cranberry pancakes
+neutral
+I stopped by for some brunch today and had the vegan cranberry pancakes and some aspectTerm.
+rice milk
+neutral
+Sweet Irish aspectTerm is always happy and able to bring a smile to my friends a my face.
+bartender
+positive
+Its good to go there for drinks if you don't want to get drunk because you'll be lucky if you can get one drink an hour the aspectTerm is so bad.
+service
+negative
+Its good to go there for drinks if you don't want to get drunk because you'll be lucky if you can get one aspectTerm an hour the service is so bad.
+drink
+neutral
+Its good to go there for aspectTerm if you don't want to get drunk because you'll be lucky if you can get one drink an hour the service is so bad.
+drinks
+neutral
+Anyway, the aspectTerm was fake.
+owner
+negative
+aspectTerm is pleasant and entertaining.
+Owner
+positive
+I have never in my life sent back aspectTerm before, but I simply had to, and the waiter argued with me over this.
+food
+negative
+I have never in my life sent back food before, but I simply had to, and the aspectTerm argued with me over this.
+waiter
+negative
+Although the restaurant itself is nice, I prefer not to go for the aspectTerm.
+food
+negative
+aspectTerm--taramasalata, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste excellent when on warm pitas.
+Creamy appetizers
+positive
+Creamy appetizers--taramasalata, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste excellent when on aspectTerm.
+warm pitas
+neutral
+Creamy appetizers--aspectTerm, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste excellent when on warm pitas.
+taramasalata
+positive
+Creamy appetizers--taramasalata, aspectTerm, and Greek yogurt (with cuccumber, dill, and garlic) taste excellent when on warm pitas.
+eggplant salad
+positive
+Creamy appetizers--taramasalata, eggplant salad, and aspectTerm taste excellent when on warm pitas.
+Greek yogurt (with cuccumber, dill, and garlic)
+positive
